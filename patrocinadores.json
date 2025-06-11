@@ -1,0 +1,493 @@
+{
+  "marcas_oficiales": [
+    "tecate",
+    "viva",
+    "kia",
+    "carnes ramos",
+    "heb",
+    "bacardi",
+    "telcel",
+    "hey banco",
+    "pepsi",
+    "oxxo",
+    "saba",
+    "h&m",
+    "adidas",
+    "spotify",
+    "uber",
+    "samsung",
+    "coca cola",
+    "corona",
+    "modelo",
+    "victoria",
+    "dos equis",
+    "heineken",
+    "indio",
+    "sol",
+    "carta blanca",
+    "bohemia",
+    "amstel",
+    "ultra",
+    "michelob",
+    "budweiser",
+    "bud light"
+  ],
+  "variaciones": {
+    "tecate": [
+      "tecate light",
+      "tecate original", 
+      "cerveza tecate",
+      "tecate beer",
+      "tcate",
+      "tekate",
+      "tecate roja",
+      "tecate azul",
+      "tecatito",
+      "tkt"
+    ],
+    "viva": [
+      "viva aerobus",
+      "vivaaerobus",
+      "aerobus",
+      "viva",
+      "biva",
+      "viva aerobús",
+      "vivaerobus",
+      "viva mexico",
+      "viva airlines",
+      "vv"
+    ],
+    "kia": [
+      "kia motors",
+      "kiamotors",
+      "kya",
+      "kia mexico",
+      "kia monterrey",
+      "kia forte",
+      "kia seltos",
+      "kia sportage",
+      "kia sorento",
+      "kia soul"
+    ],
+    "carnes ramos": [
+      "ramos",
+      "carnesramos",
+      "carnes-ramos",
+      "c. ramos",
+      "carnes r.",
+      "carniceria ramos",
+      "carnitas ramos",
+      "cr",
+      "carnes ramos monterrey",
+      "super carnes ramos"
+    ],
+    "heb": [
+      "h-e-b",
+      "h.e.b.",
+      "heb mexico",
+      "h e b",
+      "hev",
+      "heb plus",
+      "mi tienda heb",
+      "super heb",
+      "heb monterrey",
+      "h-e-b mexico"
+    ],
+    "bacardi": [
+      "bacardí",
+      "ron bacardi",
+      "bacardi rum",
+      "vakardi",
+      "bacadi",
+      "bacardi blanco",
+      "bacardi oro",
+      "bacardi limon",
+      "bacardi oakheart",
+      "bacardi superior"
+    ],
+    "telcel": [
+      "telcel mexico",
+      "america movil",
+      "telsel",
+      "telcell",
+      "mi telcel",
+      "telcel 5g",
+      "telcel max",
+      "telcel plus",
+      "red telcel",
+      "telcel monterrey"
+    ],
+    "hey banco": [
+      "hey",
+      "banco hey",
+      "heybanco",
+      "hey bank",
+      "hei banco",
+      "hey banregio",
+      "tarjeta hey",
+      "app hey",
+      "hey digital",
+      "hey fintech"
+    ],
+    "pepsi": [
+      "pepsi cola",
+      "pepsico",
+      "pepsi-cola",
+      "pecsi",
+      "pepzi",
+      "pepsi black",
+      "pepsi light",
+      "pepsi zero",
+      "pepsi max",
+      "pepsi kick"
+    ],
+    "oxxo": [
+      "tienda oxxo",
+      "oxo",
+      "oxxo tienda",
+      "oxxo store",
+      "oxzo",
+      "mi oxxo",
+      "oxxo gas",
+      "oxxo pay",
+      "spin oxxo",
+      "oxxo premia"
+    ],
+    "saba": [
+      "estacionamientos saba",
+      "saba parking",
+      "sava",
+      "saba park",
+      "saba mexico",
+      "saba monterrey",
+      "parking saba",
+      "saba estacionamiento",
+      "saba parquimetro",
+      "saba app"
+    ],
+    "h&m": [
+      "h y m",
+      "hym",
+      "h and m",
+      "hennes",
+      "hm",
+      "hennes & mauritz",
+      "h&m mexico",
+      "h&m fashion",
+      "h&m home",
+      "h&m conscious"
+    ],
+    "adidas": [
+      "adidas originals",
+      "adidas mexico",
+      "addidas",
+      "adiddas",
+      "adidas performance",
+      "adidas sportswear",
+      "adidas running",
+      "adidas football",
+      "tres rayas",
+      "3 stripes"
+    ],
+    "spotify": [
+      "spotify music",
+      "spotifi",
+      "espotify",
+      "spotify premium",
+      "spotify free",
+      "spotify mexico",
+      "spotify playlist",
+      "spotify wrapped",
+      "spot",
+      "spoti"
+    ],
+    "uber": [
+      "uber mexico",
+      "uber eats",
+      "ubber",
+      "huber",
+      "uber x",
+      "uber xl",
+      "uber comfort",
+      "uber black",
+      "uber moto",
+      "uber flash"
+    ],
+    "samsung": [
+      "samsung mexico",
+      "galaxy",
+      "samsum",
+      "samsung galaxy",
+      "samsung store",
+      "samsung pay",
+      "samsung monterrey",
+      "galaxy s",
+      "galaxy note",
+      "galaxy fold"
+    ],
+    "coca cola": [
+      "coca-cola",
+      "cocacola",
+      "coke",
+      "coca",
+      "cola",
+      "coca cola zero",
+      "coca cola light",
+      "coca cola sin azucar",
+      "coca original",
+      "la coca"
+    ],
+    "corona": [
+      "corona extra",
+      "coronita",
+      "corona light",
+      "corona familiar",
+      "cerveza corona",
+      "corona beer",
+      "corona mexico",
+      "la corona",
+      "corona premier",
+      "corona refresca"
+    ],
+    "modelo": [
+      "modelo especial",
+      "modelo negra",
+      "cerveza modelo",
+      "modelo beer",
+      "modelo chelada",
+      "modelo light",
+      "modelo mexico",
+      "la modelo",
+      "modelo time",
+      "fighting spirit"
+    ],
+    "victoria": [
+      "cerveza victoria",
+      "victoria beer",
+      "vicky",
+      "la victoria",
+      "victoria clasica",
+      "victoria vicky",
+      "victoria chamoy",
+      "victoria monterrey",
+      "victoria mexico",
+      "cerveza vicky"
+    ],
+    "dos equis": [
+      "xx",
+      "dosequis",
+      "dos xx",
+      "2x",
+      "dos equis lager",
+      "dos equis ambar",
+      "dos equis ultra",
+      "dos equis ranch water",
+      "xx lager",
+      "xx ambar"
+    ],
+    "heineken": [
+      "heineken mexico",
+      "heineken 0.0",
+      "heineken silver",
+      "heineken original",
+      "cerveza heineken",
+      "heineken beer",
+      "heinekin",
+      "heinekenn",
+      "la verde",
+      "heine"
+    ],
+    "indio": [
+      "cerveza indio",
+      "indio beer",
+      "el indio",
+      "indio mexico",
+      "indio oscura",
+      "indio clara",
+      "indio monterrey",
+      "cerveza del indio",
+      "indio premium",
+      "indio 1893"
+    ],
+    "sol": [
+      "cerveza sol",
+      "sol beer",
+      "sol mexico",
+      "sol chelada",
+      "sol michelada",
+      "sol clamato",
+      "sol limon y sal",
+      "sol brava",
+      "el sol",
+      "cerveza del sol"
+    ],
+    "carta blanca": [
+      "cartablanca",
+      "carta",
+      "cb",
+      "cerveza carta blanca",
+      "carta blanca beer",
+      "carta blanca monterrey",
+      "la carta",
+      "carta blanca regia",
+      "carta blanca mexico",
+      "blanca"
+    ],
+    "bohemia": [
+      "cerveza bohemia",
+      "bohemia beer",
+      "bohemia clasica",
+      "bohemia oscura",
+      "bohemia weizen",
+      "bohemia vienna",
+      "bohemia cristal",
+      "bohemia chocolate stout",
+      "bohemia pilsner",
+      "la bohemia"
+    ],
+    "amstel": [
+      "amstel light",
+      "amstel ultra",
+      "cerveza amstel",
+      "amstel beer",
+      "amstel mexico",
+      "amstel 0.0",
+      "amstel radler",
+      "amstel gold",
+      "amstel premium",
+      "la amstel"
+    ],
+    "ultra": [
+      "michelob ultra",
+      "ultra beer",
+      "ultra light",
+      "mich ultra",
+      "ultra pure gold",
+      "ultra organic",
+      "ultra infusions",
+      "ultra seltzer",
+      "la ultra",
+      "cerveza ultra"
+    ],
+    "michelob": [
+      "michelob ultra",
+      "michelob beer",
+      "mich",
+      "michelob light",
+      "michelob golden",
+      "michelob amberbock",
+      "michelob mexico",
+      "cerveza michelob",
+      "michelob original",
+      "la michelob"
+    ],
+    "budweiser": [
+      "bud",
+      "budwiser",
+      "budweizer",
+      "budweiser beer",
+      "budweiser mexico",
+      "king of beers",
+      "la bud",
+      "budweiser zero",
+      "budweiser nitro",
+      "budweiser select"
+    ],
+    "bud light": [
+      "budlight",
+      "bud lite",
+      "bud light beer",
+      "bud light platinum",
+      "bud light seltzer",
+      "bud light next",
+      "bud light lime",
+      "bud light chelada",
+      "bud light mexico",
+      "la bud light"
+    ]
+  },
+  "categorias": {
+    "bebidas": [
+      "tecate", "pepsi", "bacardi", "coca cola", "corona", "modelo",
+      "victoria", "dos equis", "heineken", "indio", "sol", "carta blanca",
+      "bohemia", "amstel", "ultra", "michelob", "budweiser", "bud light"
+    ],
+    "transporte": ["viva", "uber", "kia"],
+    "retail": ["heb", "oxxo", "h&m", "adidas"],
+    "servicios": ["telcel", "hey banco", "saba", "spotify"],
+    "alimentos": ["carnes ramos"],
+    "tecnologia": ["samsung", "telcel", "spotify"],
+    "moda": ["h&m", "adidas"],
+    "entretenimiento": ["spotify"],
+    "financiero": ["hey banco"]
+  },
+  "metricas": {
+    "recall_minimo_esperado": 0.15,
+    "top_of_mind_objetivo": 0.25,
+    "marcas_core": ["tecate", "viva", "kia", "telcel", "bacardi"],
+    "activaciones_especiales": {
+      "tecate": ["Tecate Light", "Tecate Original"],
+      "bacardi": ["Oasis Bacardi"],
+      "kia": ["Club Social Kia"],
+      "hey banco": ["Acústico Hey Banco"],
+      "telcel": ["Fusión Telcel"],
+      "viva": ["Sorpresa Viva"],
+      "carnes ramos": ["Food Truck Carnes Ramos"],
+      "heb": ["HEB Supplies Zone"],
+      "spotify": ["Spotify Stage"],
+      "pepsi": ["Pepsi Refresh Zone"]
+    },
+    "zonas_exclusivas": {
+      "vip": ["hey banco", "bacardi", "kia"],
+      "general": ["tecate", "pepsi", "oxxo"],
+      "hospitality": ["carnes ramos", "heb", "samsung"],
+      "todas": ["telcel", "spotify", "uber"]
+    },
+    "kpis_por_marca": {
+      "awareness": 0.80,
+      "consideracion": 0.60,
+      "preferencia": 0.40,
+      "recomendacion": 0.30,
+      "fidelidad": 0.20
+    }
+  },
+  "analisis_competencia": {
+    "cerveza": {
+      "lider": "tecate",
+      "competidores": ["corona", "modelo", "victoria", "heineken"],
+      "share_objetivo": 0.35
+    },
+    "transporte": {
+      "lider": "uber",
+      "competidores": ["viva", "kia"],
+      "share_objetivo": 0.40
+    },
+    "retail": {
+      "lider": "oxxo",
+      "competidores": ["heb"],
+      "share_objetivo": 0.45
+    }
+  },
+  "segmentacion_target": {
+    "jovenes_18_24": ["spotify", "uber", "tecate", "h&m"],
+    "adultos_25_34": ["hey banco", "kia", "modelo", "samsung"],
+    "adultos_35_44": ["bacardi", "carnes ramos", "telcel", "heb"],
+    "premium_45_plus": ["kia", "samsung", "heineken", "bacardi"]
+  },
+  "historico_recall": {
+    "2024": {
+      "tecate": 0.68,
+      "viva": 0.45,
+      "kia": 0.42,
+      "telcel": 0.38,
+      "pepsi": 0.35
+    },
+    "2023": {
+      "tecate": 0.65,
+      "viva": 0.40,
+      "kia": 0.38,
+      "telcel": 0.42,
+      "pepsi": 0.33
+    }
+  }
+}

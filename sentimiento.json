@@ -1,0 +1,343 @@
+{
+  "palabras_positivas": {
+    "excelencia": {
+      "palabras": [
+        "excelente", "excelencia", "extraordinario", "excepcional",
+        "magnifico", "espectacular", "maravilloso", "fantastico",
+        "sublime", "magistral", "fenomenal", "formidable",
+        "sobresaliente", "inmejorable", "impecable", "perfecto"
+      ],
+      "peso": 1.0,
+      "emoji": "🌟"
+    },
+    "muy_bueno": {
+      "palabras": [
+        "increible", "genial", "brutal", "chingon", "rifado",
+        "padrisimo", "buenisimo", "super", "tremendo", "impresionante",
+        "asombroso", "alucinante", "epico", "legendario", "bestial",
+        "perron", "chido", "machín", "de huevos", "con madre"
+      ],
+      "peso": 0.9,
+      "emoji": "😍"
+    },
+    "bueno": {
+      "palabras": [
+        "bueno", "bien", "chido", "padre", "agradable",
+        "bonito", "lindo", "chevere", "cool", "nice",
+        "positivo", "favorable", "satisfactorio", "grato", "placentero",
+        "disfrutable", "ameno", "rico", "sabroso", "suave"
+      ],
+      "peso": 0.7,
+      "emoji": "😊"
+    },
+    "satisfactorio": {
+      "palabras": [
+        "ok", "okay", "regular", "normal", "decente",
+        "aceptable", "correcto", "adecuado", "suficiente",
+        "pasable", "tolerable", "razonable", "apropiado", "conveniente",
+        "justo", "bien", "mas o menos", "equis", "x"
+      ],
+      "peso": 0.5,
+      "emoji": "👍"
+    },
+    "mejora": {
+      "palabras": [
+        "mejor", "mejoro", "mejorando", "progreso", "avance",
+        "crecimiento", "evolucion", "desarrollo", "superacion", "optimizacion",
+        "perfeccionamiento", "refinamiento", "pulido", "upgrade", "update",
+        "renovado", "actualizado", "mejorado", "potenciado", "elevado"
+      ],
+      "peso": 0.6,
+      "emoji": "📈"
+    },
+    "agradecimiento": {
+      "palabras": [
+        "gracias", "agradezco", "gracias", "thanks", "agradecido",
+        "aprecio", "valorar", "reconocer", "grateful", "thankful",
+        "muchas gracias", "mil gracias", "gracias totales", "te pasaste",
+        "se agradece", "lo aprecio", "valoro mucho", "reconozco"
+      ],
+      "peso": 0.8,
+      "emoji": "🙏"
+    },
+    "amor": {
+      "palabras": [
+        "amo", "amor", "quiero", "adoro", "fascina",
+        "encanta", "apasiona", "love", "corazon", "amado",
+        "querido", "adorado", "idolatrado", "venerado", "amante",
+        "enamorado", "fan", "fanatico", "groupie", "stan"
+      ],
+      "peso": 1.0,
+      "emoji": "❤️"
+    },
+    "diversion": {
+      "palabras": [
+        "divertido", "diversion", "entretenido", "ameno",
+        "disfrute", "goce", "alegria", "feliz", "contento",
+        "gozadera", "pachanga", "fiesta", "party", "peda",
+        "desmadre", "relajo", "coto", "risas", "carcajadas"
+      ],
+      "peso": 0.8,
+      "emoji": "🎉"
+    },
+    "energia": {
+      "palabras": [
+        "energia", "energetico", "vibrante", "dinamico", "activo",
+        "potente", "fuerte", "poderoso", "intenso", "vital",
+        "prendido", "encendido", "activado", "motivado", "inspirado",
+        "emocionado", "entusiasmado", "apasionado", "efusivo", "eufórico"
+      ],
+      "peso": 0.8,
+      "emoji": "⚡"
+    },
+    "calidad": {
+      "palabras": [
+        "calidad", "premium", "primera", "top", "elite",
+        "exclusivo", "selecto", "distinguido", "refinado", "elegante",
+        "lujo", "lujoso", "vip", "platinum", "gold",
+        "prime", "deluxe", "superior", "supremo", "optimo"
+      ],
+      "peso": 0.9,
+      "emoji": "💎"
+    },
+    "experiencia": {
+      "palabras": [
+        "experiencia", "vivencia", "momento", "recuerdo", "memoria",
+        "inolvidable", "memorable", "unico", "especial", "singular",
+        "irrepetible", "historico", "epico", "mitico", "legendario",
+        "iconico", "emblematico", "significativo", "trascendental", "importante"
+      ],
+      "peso": 0.8,
+      "emoji": "✨"
+    }
+  },
+  "palabras_negativas": {
+    "terrible": {
+      "palabras": [
+        "terrible", "pesimo", "horrible", "espantoso", "horroroso",
+        "desastroso", "catastrofico", "nefasto", "patético", "deplorable",
+        "lamentable", "penoso", "vergonzoso", "bochornoso", "infame",
+        "atroz", "abominable", "execrable", "detestable", "odioso"
+      ],
+      "peso": -1.0,
+      "emoji": "😱"
+    },
+    "muy_malo": {
+      "palabras": [
+        "malo", "malisimo", "fatal", "desastre", "porqueria",
+        "basura", "mierda", "cagada", "asco", "asqueroso",
+        "repugnante", "nauseabundo", "vomitivo", "inmundo", "cochinada",
+        "mugre", "pestilente", "hediondo", "podrido", "rancio"
+      ],
+      "peso": -0.9,
+      "emoji": "🤢"
+    },
+    "problematico": {
+      "palabras": [
+        "problema", "falla", "error", "defecto", "mal",
+        "falta", "carencia", "ausencia", "deficiente", "insuficiente",
+        "inadecuado", "inapropiado", "incorrecto", "equivocado", "erroneo",
+        "fallido", "malogrado", "frustrado", "truncado", "incompleto"
+      ],
+      "peso": -0.7,
+      "emoji": "⚠️"
+    },
+    "insatisfaccion": {
+      "palabras": [
+        "decepcion", "decepcionante", "desilusion", "frustrante",
+        "molesto", "fastidioso", "incomodo", "desagradable", "irritante",
+        "exasperante", "desesperante", "agobiante", "estresante", "tensionante",
+        "preocupante", "inquietante", "perturbador", "alarmante", "angustiante"
+      ],
+      "peso": -0.8,
+      "emoji": "😞"
+    },
+    "queja": {
+      "palabras": [
+        "queja", "reclamo", "protesta", "inconformidad",
+        "disgusto", "enojo", "enfado", "molestia", "berrinche",
+        "coraje", "rabia", "ira", "colera", "furia",
+        "indignacion", "resentimiento", "rencor", "bronca", "pique"
+      ],
+      "peso": -0.7,
+      "emoji": "😤"
+    },
+    "caro": {
+      "palabras": [
+        "caro", "carisimo", "costoso", "excesivo", "abusivo",
+        "robo", "estafa", "timo", "abuso", "usura",
+        "leonino", "prohibitivo", "inalcanzable", "impagable", "exorbitante",
+        "desorbitado", "inflado", "sobreprecio", "especulacion", "saqueo"
+      ],
+      "peso": -0.6,
+      "emoji": "💸"
+    },
+    "sucio": {
+      "palabras": [
+        "sucio", "cochino", "mugroso", "asqueroso", "inmundo",
+        "antihigienico", "insalubre", "contaminado", "puerco", "marrano",
+        "guarro", "cerdo", "pestilente", "fétido", "maloliente",
+        "apestoso", "hediondo", "nauseabundo", "repulsivo", "infecto"
+      ],
+      "peso": -0.8,
+      "emoji": "🤮"
+    },
+    "peligro": {
+      "palabras": [
+        "peligroso", "inseguro", "riesgoso", "amenaza",
+        "miedo", "temor", "panico", "terror", "horror",
+        "espanto", "susto", "alarma", "zozobra", "angustia",
+        "mortal", "letal", "fatal", "grave", "severo"
+      ],
+      "peso": -0.9,
+      "emoji": "⛔"
+    },
+    "negacion": {
+      "palabras": [
+        "nunca", "jamas", "tampoco", "nada", "nadie",
+        "ninguno", "ningun", "cero", "nulo", "vacio",
+        "ausente", "inexistente", "imposible", "inviable", "impracticable",
+        "irrealizable", "inalcanzable", "utopico", "quimerico", "ilusorio"
+      ],
+      "peso": -0.5,
+      "emoji": "❌"
+    },
+    "desorganizacion": {
+      "palabras": [
+        "desorganizado", "caotico", "desordenado", "confuso", "enredado",
+        "revuelto", "mezclado", "embarullado", "embrollado", "liado",
+        "desmadre", "desastre", "descontrol", "anarquia", "caos",
+        "desbarajuste", "desorden", "confusion", "batidillo", "revoltura"
+      ],
+      "peso": -0.7,
+      "emoji": "🌀"
+    },
+    "lentitud": {
+      "palabras": [
+        "lento", "tardado", "demorado", "pausado", "moroso",
+        "torpe", "pesado", "lerdo", "pachorrudo", "flojo",
+        "perezoso", "holgazan", "vago", "huevon", "fodongo",
+        "remolón", "indolente", "apático", "indiferente", "desganado"
+      ],
+      "peso": -0.6,
+      "emoji": "🐌"
+    },
+    "incompetencia": {
+      "palabras": [
+        "incompetente", "inepto", "incapaz", "inutil", "torpe",
+        "chapucero", "chambón", "improvisado", "amateur", "novato",
+        "principiante", "inexperto", "ignorante", "mediocre", "deficiente",
+        "pésimo", "malísimo", "nefasto", "desastroso", "catastrófico"
+      ],
+      "peso": -0.8,
+      "emoji": "🤦"
+    }
+  },
+  "intensificadores": {
+    "muy": ["muy", "mucho", "demasiado", "super", "ultra", "mega", "hiper", "re", "recontra", "requete"],
+    "bastante": ["bastante", "considerablemente", "notablemente", "significativamente", "sustancialmente"],
+    "algo": ["algo", "poco", "ligeramente", "medio", "masomenos", "tantito", "poquito"],
+    "extremo": ["extremadamente", "absolutamente", "totalmente", "completamente", "enteramente", "plenamente", "sumamente", "altamente", "profundamente", "inmensamente"],
+    "total": ["total", "completo", "absoluto", "pleno", "íntegro", "entero", "todo", "cien por ciento", "al maximo", "full"]
+  },
+  "negadores": {
+    "no": ["no", "ni", "tampoco", "sin", "carente", "falto", "desprovisto"],
+    "nunca": ["nunca", "jamas", "ninguna vez", "en la vida", "por nada", "de ninguna manera"],
+    "nada": ["nada", "ningun", "ninguno", "cero", "nulo", "vacío", "ausente", "inexistente"]
+  },
+  "conectores_adversativos": ["pero", "aunque", "sin embargo", "no obstante", "mas", "empero", "con todo", "aun así", "de todas formas", "de todos modos", "a pesar de", "pese a"],
+  "emojis_sentimiento": {
+    "muy_positivo": ["🎉", "🎊", "🥳", "😍", "🤩", "💯", "🔥", "⭐", "🌟", "✨", "🏆", "🥇", "👑", "💎", "🚀"],
+    "positivo": ["😊", "😄", "👍", "👏", "💪", "🙌", "✅", "💚", "💙", "❤️", "🎯", "🎪", "🎨", "🎭", "🎸"],
+    "neutral": ["😐", "🤔", "🤷", "😶", "🙃", "📝", "💭", "🔄", "⚖️", "🔍", "📊", "📈", "📉", "🔔", "📌"],
+    "negativo": ["😔", "😞", "😕", "👎", "😒", "🙄", "💔", "⚠️", "🚨", "📵", "🚫", "⛔", "🔴", "❗", "‼️"],
+    "muy_negativo": ["😡", "🤬", "😤", "💀", "🤮", "😭", "🚫", "❌", "⛔", "☠️", "💩", "🤢", "😱", "😨", "😰"]
+  },
+  "frases_comunes": {
+    "positivas": [
+      "vale la pena",
+      "lo mejor",
+      "sin palabras",
+      "de lujo",
+      "primer mundo",
+      "otro nivel",
+      "sin igual",
+      "no tiene precio",
+      "para repetir",
+      "altamente recomendable",
+      "de lo mejor",
+      "cinco estrellas",
+      "diez de diez",
+      "cien de cien",
+      "lo maximo",
+      "la neta",
+      "sin duda",
+      "por supuesto",
+      "claro que si",
+      "definitivamente",
+      "absolutamente",
+      "totalmente",
+      "completamente",
+      "sin excepción",
+      "sin falla"
+    ],
+    "negativas": [
+      "nunca mas",
+      "no vuelvo",
+      "perdida de tiempo",
+      "perdida de dinero",
+      "tire mi dinero",
+      "primera y ultima vez",
+      "deja mucho que desear",
+      "para olvidar",
+      "no lo recomiendo",
+      "muy mal organizado",
+      "un fracaso",
+      "un fiasco",
+      "un desastre",
+      "una decepción",
+      "una estafa",
+      "un robo",
+      "un timo",
+      "una burla",
+      "una falta de respeto",
+      "lo peor",
+      "pesima experiencia",
+      "terrible servicio",
+      "malisima organizacion",
+      "cero estrellas",
+      "ni de chiste"
+    ]
+  },
+  "modificadores_contextuales": {
+    "sarcasmo": {
+      "indicadores": ["que", "muy", "super", "tan", "wow", "bravo", "felicidades"],
+      "frases": ["que bueno", "muy bien", "super organizado", "tan limpio", "wow que servicio"],
+      "peso_inversor": -1.5
+    },
+    "comparacion": {
+      "mejor_que": ["mejor que", "superior a", "mas que", "por encima de"],
+      "peor_que": ["peor que", "inferior a", "menos que", "por debajo de"],
+      "igual_que": ["igual que", "como", "tal como", "asi como"]
+    },
+    "temporal": {
+      "pasado_mejor": ["antes era mejor", "el año pasado", "la vez anterior"],
+      "presente_mejor": ["ahora si", "este año", "esta vez"],
+      "futuro_esperanza": ["espero que mejoren", "para la proxima", "ojala cambien"]
+    }
+  },
+  "configuracion": {
+    "umbral_positivo": 20,
+    "umbral_muy_positivo": 50,
+    "umbral_negativo": -20,
+    "umbral_muy_negativo": -50,
+    "peso_intensificador": 1.5,
+    "peso_negador": -1,
+    "peso_emoji": 0.3,
+    "peso_frase_comun": 2.0,
+    "min_palabras_analisis": 3,
+    "max_palabras_contexto": 5,
+    "deteccion_sarcasmo": true,
+    "analisis_contextual": true
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "procesamiento": {
+    "artistas": {
+      "umbral_similitud": 0.5,
+      "umbral_similitud_estricto": 0.7,
+      "umbral_similitud_flexible": 0.3,
+      "min_confianza": 0.7,
+      "min_menciones": 3,
+      "max_variaciones": 20,
+      "longitud_minima": 2,
+      "penalizacion_longitud": 0.1,
+      "boost_siglas": 0.2,
+      "max_artistas_por_respuesta": 10
+    },
+    "separadores": {
+      "principales": [",", "/", "-", "y", "&", "+", "|", ";", ":"],
+      "colaboraciones": ["feat", "ft", "featuring", "con", "vs", "x", "w/", "with"],
+      "especiales": ["\\", "_", "•", "·", "*", "~", "→", "►", "★", "♦"],
+      "regex_completo": "(feat\\.|ft\\.|featuring|feat|ft|con|vs|versus|&|y|and|und|et|/|,|;|\\+|x|X|with|w\\/)"
+    },
+    "normalizacion": {
+      "eliminar_acentos": true,
+      "convertir_minusculas": true,
+      "eliminar_espacios_extra": true,
+      "preservar_caracteres": ["$", "@", "#", "!", "?", "€", "£"],
+      "reemplazos_comunes": {
+        "ph": "f",
+        "th": "t",
+        "ck": "k",
+        "qu": "k",
+        "ll": "y",
+        "ñ": "n",
+        "ch": "c",
+        "sh": "s",
+        "gh": "g"
+      },
+      "palabras_ignorar": [
+        "the", "el", "la", "los", "las", "de", "del",
+        "and", "y", "band", "banda", "grupo", "dj",
+        "mc", "project", "proyecto", "collective"
+      ]
+    },
+    "validacion": {
+      "edad_minima": 10,
+      "edad_maxima": 90,
+      "respuesta_minima_caracteres": 2,
+      "respuesta_maxima_caracteres": 200,
+      "caracteres_invalidos": ["<", ">", "{", "}", "[", "]", "\\"],
+      "respuestas_invalidas": ["ND", "N/A", "NA", "NO SE", "NINGUNO", "NADIE", "NO", "-", "."]
+    }
+  },
+  "demograficos": {
+    "grupos_edad": [
+      {"min": 0, "max": 17, "label": "Menor de 18", "color": "#FF6B6B", "codigo": "U18"},
+      {"min": 18, "max": 24, "label": "18-24", "color": "#4ECDC4", "codigo": "18-24"},
+      {"min": 25, "max": 34, "label": "25-34", "color": "#45B7D1", "codigo": "25-34"},
+      {"min": 35, "max": 44, "label": "35-44", "color": "#F7DC6F", "codigo": "35-44"},
+      {"min": 45, "max": 54, "label": "45-54", "color": "#BB8FCE", "codigo": "45-54"},
+      {"min": 55, "max": 999, "label": "55+", "color": "#85C1E2", "codigo": "55+"}
+    ],
+    "zonas": {
+      "Ascendente": {
+        "color": "#E74C3C",
+        "orden": 1,
+        "precio_promedio": 2500,
+        "capacidad": 15000,
+        "peso_analisis": 1.0
+      },
+      "General": {
+        "color": "#F39C12",
+        "orden": 2,
+        "precio_promedio": 3500,
+        "capacidad": 30000,
+        "peso_analisis": 1.0
+      },
+      "General +": {
+        "color": "#F1C40F",
+        "orden": 3,
+        "precio_promedio": 5000,
+        "capacidad": 15000,
+        "peso_analisis": 1.2
+      },
+      "VIP": {
+        "color": "#9B59B6",
+        "orden": 4,
+        "precio_promedio": 8000,
+        "capacidad": 7000,
+        "peso_analisis": 1.5
+      },
+      "Hospitality": {
+        "color": "#2ECC71",
+        "orden": 5,
+        "precio_promedio": 15000,
+        "capacidad": 3000,
+        "peso_analisis": 2.0
+      }
+    },
+    "segmentacion_avanzada": {
+      "locales": {
+        "estados": ["Nuevo León", "Nuevo Leon", "NL", "N.L."],
+        "codigo": "LOCAL",
+        "color": "#3498DB"
+      },
+      "foraneos": {
+        "todos_excepto": ["Nuevo León", "Nuevo Leon", "NL", "N.L."],
+        "codigo": "FORANEO",
+        "color": "#E67E22"
+      },
+      "internacionales": {
+        "paises": ["USA", "Estados Unidos", "Canada", "Europa"],
+        "codigo": "INTERNACIONAL",
+        "color": "#1ABC9C"
+      }
+    }
+  },
+  "visualizacion": {
+    "colores": {
+      "sentimiento": {
+        "muy_positivo": "#1a9850",
+        "positivo": "#91cf60",
+        "neutral": "#ffffbf",
+        "negativo": "#fc8d59",
+        "muy_negativo": "#d73027"
+      },
+      "correlacion": {
+        "fuerte_positiva": "#0571b0",
+        "positiva": "#92c5de",
+        "neutral": "#f7f7f7",
+        "negativa": "#f4a582",
+        "fuerte_negativa": "#ca0020"
+      },
+      "generos": {
+        "Reggaeton": "#FF006E",
+        "Rock": "#3A86FF",
+        "Pop": "#8338EC",
+        "Regional Mexicano": "#FB5607",
+        "Electronic": "#FFBE0B",
+        "Hip Hop": "#06FFA5",
+        "Indie": "#C77DFF",
+        "Metal": "#000000",
+        "Alternative": "#7209B7",
+        "R&B": "#F72585",
+        "Corridos Tumbados": "#B5179E",
+        "Trap": "#560BAD",
+        "Folk": "#4CC9F0",
+        "Jazz": "#4361EE",
+        "Country": "#F77F00",
+        "Sin clasificar": "#CCCCCC"
+      },
+      "escenarios": {
+        "1": "#00A8E8",
+        "2": "#E63946",
+        "3": "#F77F00",
+        "4": "#06FFA5",
+        "5": "#CC5803",
+        "6": "#7209B7",
+        "7": "#F72585",
+        "8": "#B5179E"
+      }
+    },
+    "configuracion": {
+      "top_artistas_mostrar": 50,
+      "top_artistas_por_escenario": 20,
+      "min_correlacion_mostrar": 0.3,
+      "max_categorias_grafica": 15,
+      "decimales_porcentajes": 1,
+      "min_menciones_mostrar": 5,
+      "altura_minima_barra": 3,
+      "ancho_minimo_grafica": 600,
+      "alto_minimo_grafica": 400
+    },
+    "tooltips": {
+      "mostrar_variaciones": true,
+      "mostrar_porcentajes": true,
+      "mostrar_absolutos": true,
+      "mostrar_demograficos": true,
+      "delay_ms": 500,
+      "max_caracteres": 200
+    },
+    "opciones_graficas": {
+      "responsive": true,
+      "maintainAspectRatio": false,
+      "animacion": {
+        "duracion": 1000,
+        "easing": "easeInOutQuart"
+      },
+      "leyenda": {
+        "posicion": "top",
+        "alineacion": "center",
+        "max_items": 10
+      },
+      "grid": {
+        "mostrar": true,
+        "color": "rgba(0, 0, 0, 0.1)"
+      }
+    }
+  },
+  "exportacion": {
+    "excel": {
+      "nombre_base": "PLN25_Analisis",
+      "incluir_timestamp": true,
+      "formato_fecha": "YYYYMMDD_HHmmss",
+      "hojas_incluir": [
+        "Resumen_Ejecutivo",
+        "Ranking_Global",
+        "Escenario_1",
+        "Escenario_2",
+        "Escenario_3",
+        "Escenario_4",
+        "Escenario_5",
+        "Escenario_6",
+        "Escenario_7",
+        "Escenario_8",
+        "Matriz_Artista_Edad",
+        "Matriz_Artista_Zona",
+        "Patrocinadores_Recall",
+        "Mejoras_Festival",
+        "Mejoras_Por_Zona",
+        "Analisis_Sentimiento",
+        "Correlaciones",
+        "Generos_Musicales",
+        "Datos_Validacion",
+        "Configuracion",
+        "Datos_Raw"
+      ],
+      "formato_numeros": "#,##0",
+      "formato_porcentajes": "0.0%",
+      "formato_moneda": "$#,##0.00",
+      "ancho_columnas": {
+        "id": 10,
+        "nombre": 30,
+        "numero": 15,
+        "porcentaje": 12,
+        "texto": 50,
+        "fecha": 20
+      },
+      "estilos": {
+        "encabezado": {
+          "bold": true,
+          "fontSize": 14,
+          "backgroundColor": "#2C3E50",
+          "fontColor": "#FFFFFF",
+          "alignment": "center"
+        },
+        "subtitulo": {
+          "bold": true,
+          "fontSize": 12,
+          "backgroundColor": "#34495E",
+          "fontColor": "#FFFFFF"
+        },
+        "datos": {
+          "fontSize": 10,
+          "borderStyle": "thin",
+          "borderColor": "#BDC3C7"
+        }
+      }
+    },
+    "csv": {
+      "separador": ",",
+      "encoding": "utf-8-sig",
+      "incluir_headers": true,
+      "comillas": true,
+      "escape": "\\",
+      "nueva_linea": "\n",
+      "null_value": ""
+    },
+    "json": {
+      "pretty_print": true,
+      "indent": 2,
+      "sort_keys": true,
+      "ensure_ascii": false
+    }
+  },
+  "analisis": {
+    "patrocinadores": {
+      "min_recall": 0.01,
+      "top_of_mind_peso": 2.0,
+      "menciones_multiples": true,
+      "max_marcas_por_persona": 5,
+      "normalizar_variaciones": true,
+      "incluir_no_mencionados": true
+    },
+    "mejoras": {
+      "min_frecuencia": 0.005,
+      "combinar_sinonimos": true,
+      "detectar_sarcasmo": true,
+      "peso_zona_premium": 1.5,
+      "peso_critico": 2.0,
+      "max_palabras_analizar": 500
+    },
+    "satisfaccion": {
+      "escala_min": 1,
+      "escala_max": 10,
+      "umbral_satisfecho": 7,
+      "umbral_promotor": 9,
+      "umbral_detractor": 6,
+      "calcular_nps": true
+    },
+    "sentimiento": {
+      "umbral_positivo": 20,
+      "umbral_muy_positivo": 50,
+      "umbral_negativo": -20,
+      "umbral_muy_negativo": -50,
+      "peso_intensificador": 1.5,
+      "peso_negador": -1,
+      "incluir_emojis": true,
+      "peso_emoji": 0.3
+    },
+    "correlaciones": {
+      "metodo": "pearson",
+      "min_muestra": 30,
+      "confianza": 0.95,
+      "correccion_bonferroni": true,
+      "incluir_no_significativas": false
+    }
+  },
+  "limites": {
+    "max_registros": 50000,
+    "max_artistas_unicos": 5000,
+    "max_variaciones_por_artista": 100,
+    "max_categorias_mejoras": 50,
+    "timeout_procesamiento_ms": 60000,
+    "max_tamaño_archivo_mb": 50,
+    "max_caracteres_comentario": 1000,
+    "max_palabras_sentimiento": 100
+  },
+  "cache": {
+    "activar": true,
+    "duracion_minutos": 30,
+    "limpiar_al_cargar": true,
+    "max_elementos": 10000,
+    "estrategia": "LRU",
+    "comprimir": true
+  },
+  "debug": {
+    "mostrar_tiempos": true,
+    "log_agrupaciones": false,
+    "guardar_intermedios": false,
+    "nivel": "INFO",
+    "niveles_disponibles": ["DEBUG", "INFO", "WARN", "ERROR"],
+    "max_logs": 1000,
+    "mostrar_en_consola": true,
+    "guardar_en_archivo": false
+  },
+  "validaciones": {
+    "estrictas": true,
+    "campos_requeridos": {
+      "artistas": ["ID", "EDAD", "Zona de Acceso"],
+      "palnorte": ["ID", "Satisfacción general", "Volvería al festival"]
+    },
+    "valores_permitidos": {
+      "zonas": ["Ascendente", "General", "General +", "VIP", "Hospitality"],
+      "satisfaccion": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+      "volveria": [0, 0.5, 1],
+      "genero": ["M", "F", "Masculino", "Femenino", "Otro", "Prefiero no decir"]
+    },
+    "permitir_vacios": {
+      "comentarios": true,
+      "patrocinadores": true,
+      "artistas_opcionales": true
+    }
+  },
+  "mensajes": {
+    "exito": {
+      "carga": "Archivo cargado exitosamente: {registros} registros encontrados",
+      "procesamiento": "Análisis completado en {tiempo} segundos",
+      "exportacion": "Datos exportados correctamente a {archivo}",
+      "validacion": "Validación exitosa: {validos} de {total} registros"
+    },
+    "error": {
+      "archivo_invalido": "El archivo no tiene el formato esperado",
+      "columnas_faltantes": "Faltan las siguientes columnas requeridas: {columnas}",
+      "sin_datos": "No se encontraron datos válidos para procesar",
+      "memoria": "El archivo excede el límite de memoria permitido ({limite}MB)",
+      "timeout": "El procesamiento excedió el tiempo límite de {tiempo} segundos"
+    },
+    "advertencia": {
+      "pocos_datos": "Se encontraron menos de 100 registros válidos",
+      "muchos_invalidos": "Más del {porcentaje}% de los registros fueron descartados",
+      "sin_genero": "No se pudo identificar el género para {cantidad} artistas",
+      "correlacion_baja": "La correlación encontrada es muy baja (r={valor})"
+    },
+    "info": {
+      "procesando": "Procesando {etapa}... {porcentaje}% completado",
+      "agrupando": "Agrupando variaciones de nombres de artistas...",
+      "calculando": "Calculando estadísticas y correlaciones...",
+      "generando": "Generando visualizaciones..."
+    }
+  },
+  "formulas": {
+    "similitud_nombres": {
+      "formula": "1 - (distancia_levenshtein / max(len1, len2)) - (abs(len1-len2) * penalizacion)",
+      "descripcion": "Calcula la similitud entre dos nombres considerando la distancia de edición y la diferencia de longitud"
+    },
+    "sentimiento": {
+      "formula": "(Σ(palabra_peso × intensificador × negador) / total_palabras) × 100",
+      "descripcion": "Calcula el sentimiento ponderado de un texto considerando intensificadores y negadores"
+    },
+    "prioridad_mejora": {
+      "formula": "frecuencia × impacto_negativo × criticidad × peso_zona",
+      "descripcion": "Determina la prioridad de atención de una mejora basada en múltiples factores"
+    },
+    "recall_ponderado": {
+      "formula": "(menciones_marca / total_menciones) × (1 + (peso_top_of_mind × es_primera_mencion))",
+      "descripcion": "Calcula el recall de marca dando peso extra a la primera mención"
+    },
+    "nps": {
+      "formula": "(%_promotores - %_detractores) × 100",
+      "descripcion": "Net Promoter Score estándar de la industria"
+    }
+  },
+  "version": {
+    "actual": "1.0.0",
+    "fecha_actualizacion": "2025-01-10",
+    "compatible_con": ["1.0.x"],
+    "proxima_revision": "2025-04-01"
+  }
+}

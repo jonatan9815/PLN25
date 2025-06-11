@@ -1,0 +1,559 @@
+{
+  "escenarios": {
+    "1": {
+      "nombre": "Tecate Light",
+      "columna_artistas": 3,
+      "columna_palnorte": "Mención Tecate Light",
+      "tipo": "principal",
+      "capacidad": 50000,
+      "color": "#00A8E8",
+      "descripcion": "Escenario principal del festival",
+      "horario": {
+        "apertura": "16:00",
+        "cierre": "02:00",
+        "headliner": "22:00-00:00"
+      },
+      "ubicacion": {
+        "zona": "Norte",
+        "coordenadas": "25.6775° N, 100.2597° W",
+        "accesos": ["Principal Norte", "VIP Este", "General Oeste"]
+      },
+      "servicios": {
+        "barras": 12,
+        "baños": 20,
+        "puestos_comida": 8,
+        "puntos_hidratacion": 6,
+        "zona_medica": 2
+      },
+      "pantallas": {
+        "principales": 2,
+        "laterales": 4,
+        "tamaño": "20x10m"
+      },
+      "historico_artistas": {
+        "2024": ["Bad Bunny", "Coldplay", "Imagine Dragons"],
+        "2023": ["Post Malone", "The Weeknd", "Arctic Monkeys"],
+        "2022": ["Drake", "Bruno Mars", "Twenty One Pilots"]
+      }
+    },
+    "2": {
+      "nombre": "Tecate Original",
+      "columna_artistas": 4,
+      "columna_palnorte": "Mención Tecate Original",
+      "tipo": "principal",
+      "capacidad": 40000,
+      "color": "#E63946",
+      "descripcion": "Segundo escenario principal",
+      "horario": {
+        "apertura": "16:00",
+        "cierre": "02:00",
+        "headliner": "22:00-00:00"
+      },
+      "ubicacion": {
+        "zona": "Sur",
+        "coordenadas": "25.6765° N, 100.2587° W",
+        "accesos": ["Principal Sur", "VIP Oeste", "General Este"]
+      },
+      "servicios": {
+        "barras": 10,
+        "baños": 16,
+        "puestos_comida": 6,
+        "puntos_hidratacion": 5,
+        "zona_medica": 2
+      },
+      "pantallas": {
+        "principales": 2,
+        "laterales": 4,
+        "tamaño": "18x9m"
+      },
+      "historico_artistas": {
+        "2024": ["Taylor Swift", "Dua Lipa", "Olivia Rodrigo"],
+        "2023": ["Billie Eilish", "Ariana Grande", "Doja Cat"],
+        "2022": ["Ed Sheeran", "Halsey", "Lorde"]
+      }
+    },
+    "3": {
+      "nombre": "Fusión Telcel",
+      "columna_artistas": 5,
+      "columna_palnorte": "Mención Fusión Telcel",
+      "subtitulo": "Rock Latino",
+      "tipo": "genero",
+      "capacidad": 25000,
+      "color": "#F77F00",
+      "descripcion": "Dedicado al rock en español",
+      "horario": {
+        "apertura": "17:00",
+        "cierre": "01:00",
+        "headliner": "21:00-23:00"
+      },
+      "ubicacion": {
+        "zona": "Este",
+        "coordenadas": "25.6770° N, 100.2580° W",
+        "accesos": ["General Este", "VIP Norte"]
+      },
+      "servicios": {
+        "barras": 6,
+        "baños": 10,
+        "puestos_comida": 4,
+        "puntos_hidratacion": 3,
+        "zona_medica": 1
+      },
+      "pantallas": {
+        "principales": 1,
+        "laterales": 2,
+        "tamaño": "12x6m"
+      },
+      "generos_destacados": [
+        "Rock Latino", "Rock Alternativo", "Indie Rock",
+        "Post-Punk", "Rock Progresivo", "Ska", "Punk Rock"
+      ],
+      "historico_artistas": {
+        "2024": ["Café Tacvba", "Zoé", "Mon Laferte"],
+        "2023": ["Caifanes", "Molotov", "Enjambre"],
+        "2022": ["Maná", "Bunbury", "Porter"]
+      }
+    },
+    "4": {
+      "nombre": "Sorpresa Viva",
+      "columna_artistas": 6,
+      "columna_palnorte": "Mención Sorpresa Viva",
+      "tipo": "alternativo",
+      "capacidad": 20000,
+      "color": "#06FFA5",
+      "descripcion": "Artistas sorpresa y emergentes",
+      "horario": {
+        "apertura": "16:00",
+        "cierre": "00:00",
+        "sets_sorpresa": ["18:00", "20:00", "22:00"]
+      },
+      "ubicacion": {
+        "zona": "Oeste",
+        "coordenadas": "25.6780° N, 100.2600° W",
+        "accesos": ["General Oeste", "Artistas Sur"]
+      },
+      "servicios": {
+        "barras": 5,
+        "baños": 8,
+        "puestos_comida": 3,
+        "puntos_hidratacion": 3,
+        "zona_medica": 1
+      },
+      "pantallas": {
+        "principales": 1,
+        "laterales": 2,
+        "tamaño": "10x5m"
+      },
+      "formato_especial": {
+        "slots_nuevos_talentos": 6,
+        "sets_acusticos": 3,
+        "colaboraciones_unicas": 4
+      },
+      "historico_artistas": {
+        "2024": ["Artistas Emergentes", "Colaboraciones Especiales"],
+        "2023": ["Talentos Locales", "Invitados Sorpresa"],
+        "2022": ["Nuevas Promesas", "Reuniones Especiales"]
+      }
+    },
+    "5": {
+      "nombre": "Oasis Bacardi",
+      "columna_artistas": 7,
+      "columna_palnorte": "Mención Oasis Bacardí",
+      "subtitulo": "Urbano",
+      "tipo": "genero",
+      "capacidad": 30000,
+      "color": "#CC5803",
+      "descripcion": "Reggaeton, trap y música urbana",
+      "horario": {
+        "apertura": "18:00",
+        "cierre": "02:00",
+        "peak_time": "23:00-01:00"
+      },
+      "ubicacion": {
+        "zona": "Centro",
+        "coordenadas": "25.6772° N, 100.2590° W",
+        "accesos": ["General Sur", "VIP Centro", "Hospitality"]
+      },
+      "servicios": {
+        "barras": 8,
+        "baños": 12,
+        "puestos_comida": 5,
+        "puntos_hidratacion": 4,
+        "zona_medica": 1
+      },
+      "pantallas": {
+        "principales": 2,
+        "laterales": 2,
+        "tamaño": "14x7m",
+        "efectos_led": true
+      },
+      "generos_destacados": [
+        "Reggaeton", "Trap Latino", "Dancehall",
+        "Dembow", "Latin Urban", "Perreo"
+      ],
+      "activaciones_marca": {
+        "bacardi_bar": "Premium cocktails",
+        "meet_greet": "Artistas seleccionados",
+        "photo_booth": "Experiencia 360°"
+      },
+      "historico_artistas": {
+        "2024": ["Bad Bunny", "Karol G", "Rauw Alejandro"],
+        "2023": ["J Balvin", "Anuel AA", "Ozuna"],
+        "2022": ["Daddy Yankee", "Maluma", "Nicky Jam"]
+      }
+    },
+    "6": {
+      "nombre": "Acústico Hey Banco",
+      "columna_artistas": 8,
+      "columna_palnorte": "Mención Acústico Hey Banco",
+      "tipo": "acustico",
+      "capacidad": 10000,
+      "color": "#7209B7",
+      "descripcion": "Sesiones acústicas e íntimas",
+      "horario": {
+        "apertura": "17:00",
+        "cierre": "23:00",
+        "sets_duracion": "45 minutos"
+      },
+      "ubicacion": {
+        "zona": "Jardín Norte",
+        "coordenadas": "25.6785° N, 100.2595° W",
+        "accesos": ["VIP Exclusivo", "General Norte"]
+      },
+      "servicios": {
+        "barras": 3,
+        "baños": 6,
+        "puestos_comida": 2,
+        "puntos_hidratacion": 2,
+        "zona_medica": 1
+      },
+      "configuracion": {
+        "asientos": 5000,
+        "grada": 5000,
+        "zona_vip": 1000,
+        "alfombra": true
+      },
+      "equipamiento_especial": {
+        "pianos": 2,
+        "guitarras_acusticas": 10,
+        "set_percusion": "Completo",
+        "microfonos": "Condensador premium"
+      },
+      "ambiente": {
+        "iluminacion": "Cálida",
+        "decoracion": "Vintage",
+        "acustica": "Optimizada"
+      },
+      "historico_artistas": {
+        "2024": ["Julieta Venegas", "Carla Morrison", "Mon Laferte"],
+        "2023": ["Natalia Lafourcade", "Ximena Sariñana", "Jesse & Joy"],
+        "2022": ["Reik", "Camilo", "Morat"]
+      }
+    },
+    "7": {
+      "nombre": "Club Social Kia",
+      "columna_artistas": 9,
+      "columna_palnorte": "Mención Club Social KIA",
+      "subtitulo": "Electrónico",
+      "tipo": "genero",
+      "capacidad": 15000,
+      "color": "#F72585",
+      "descripcion": "EDM, house, techno",
+      "horario": {
+        "apertura": "20:00",
+        "cierre": "04:00",
+        "peak_time": "00:00-03:00"
+      },
+      "ubicacion": {
+        "zona": "Zona Industrial",
+        "coordenadas": "25.6760° N, 100.2585° W",
+        "accesos": ["General Sur", "VIP Especial"]
+      },
+      "servicios": {
+        "barras": 6,
+        "baños": 8,
+        "puestos_comida": 2,
+        "puntos_hidratacion": 4,
+        "zona_medica": 1
+      },
+      "produccion": {
+        "lasers": 8,
+        "maquinas_humo": 6,
+        "co2": 4,
+        "pirotecnia": "Controlada",
+        "pantalla_led": "360°"
+      },
+      "generos_destacados": [
+        "House", "Techno", "EDM", "Trance",
+        "Dubstep", "Drum & Bass", "Future Bass"
+      ],
+      "zonas_especiales": {
+        "vip_deck": "Vista elevada",
+        "pit": "Frente al DJ",
+        "chill_zone": "Área de descanso"
+      },
+      "historico_artistas": {
+        "2024": ["David Guetta", "Martin Garrix", "Tiësto"],
+        "2023": ["Calvin Harris", "Marshmello", "Diplo"],
+        "2022": ["Skrillex", "Deadmau5", "Armin van Buuren"]
+      }
+    },
+    "8": {
+      "nombre": "Hot Nuts Pilos Bar",
+      "columna_artistas": 10,
+      "columna_palnorte": "Mención Hot Nuts Pilo's Bar",
+      "subtitulo": "Regional Mexicano",
+      "tipo": "genero",
+      "capacidad": 20000,
+      "color": "#B5179E",
+      "descripcion": "Banda, norteño, corridos",
+      "horario": {
+        "apertura": "16:00",
+        "cierre": "01:00",
+        "baile": "19:00-01:00"
+      },
+      "ubicacion": {
+        "zona": "Plaza Sur",
+        "coordenadas": "25.6755° N, 100.2592° W",
+        "accesos": ["General Principal", "VIP Lateral"]
+      },
+      "servicios": {
+        "barras": 8,
+        "baños": 10,
+        "puestos_comida": 6,
+        "puntos_hidratacion": 3,
+        "zona_medica": 1
+      },
+      "configuracion": {
+        "pista_baile": 5000,
+        "mesas": 500,
+        "zona_general": 14500,
+        "tarima": "Ampliada para banda"
+      },
+      "generos_destacados": [
+        "Banda", "Norteño", "Corridos Tumbados",
+        "Mariachi", "Grupero", "Sierreño"
+      ],
+      "servicios_especiales": {
+        "venta_sombreros": true,
+        "botas": "Tienda oficial",
+        "cinturones": "Piteados"
+      },
+      "ambiente": {
+        "decoracion": "Cantina moderna",
+        "iluminacion": "Festiva",
+        "barra_tequila": "Premium"
+      },
+      "historico_artistas": {
+        "2024": ["Peso Pluma", "Grupo Frontera", "Christian Nodal"],
+        "2023": ["Banda MS", "Calibre 50", "Los Tigres del Norte"],
+        "2022": ["Julión Álvarez", "Gerardo Ortiz", "La Arrolladora"]
+      }
+    }
+  },
+  "configuracion_general": {
+    "total_dias": 3,
+    "dias": ["Viernes", "Sábado", "Domingo"],
+    "fechas": {
+      "2025": ["4 de abril", "5 de abril", "6 de abril"],
+      "2024": ["29 de marzo", "30 de marzo", "31 de marzo"],
+      "2023": ["31 de marzo", "1 de abril", "2 de abril"]
+    },
+    "horarios": {
+      "viernes": {
+        "apertura_puertas": "14:00",
+        "primer_acto": "16:00",
+        "ultimo_acto": "01:30",
+        "cierre": "02:00"
+      },
+      "sabado": {
+        "apertura_puertas": "12:00",
+        "primer_acto": "14:00",
+        "ultimo_acto": "01:30",
+        "cierre": "02:00"
+      },
+      "domingo": {
+        "apertura_puertas": "12:00",
+        "primer_acto": "14:00",
+        "ultimo_acto": "23:30",
+        "cierre": "00:00"
+      }
+    },
+    "año": 2025,
+    "edicion": 13,
+    "lugar": "Parque Fundidora, Monterrey",
+    "direccion": "Avenida Fundidora, Parque Fundidora, 64010 Monterrey, N.L.",
+    "coordenadas": {
+      "latitud": 25.6775,
+      "longitud": -100.2597
+    },
+    "superficie_total": "25 hectáreas",
+    "capacidad_maxima": 210000,
+    "capacidad_diaria": 70000
+  },
+  "infraestructura": {
+    "entradas": {
+      "principal": {
+        "ubicacion": "Norte",
+        "carriles": 20,
+        "capacidad_hora": 15000
+      },
+      "vip": {
+        "ubicacion": "Este",
+        "carriles": 8,
+        "capacidad_hora": 5000
+      },
+      "artistas": {
+        "ubicacion": "Oeste",
+        "carriles": 4,
+        "acceso": "Restringido"
+      }
+    },
+    "estacionamientos": {
+      "general": {
+        "espacios": 10000,
+        "precio": "$200",
+        "distancia": "500m"
+      },
+      "vip": {
+        "espacios": 2000,
+        "precio": "Incluido",
+        "distancia": "100m"
+      },
+      "discapacitados": {
+        "espacios": 500,
+        "precio": "Gratuito",
+        "distancia": "50m"
+      }
+    },
+    "transporte": {
+      "shuttles": {
+        "rutas": 10,
+        "frecuencia": "15 minutos",
+        "puntos": ["Centro", "San Pedro", "Cumbres", "Carretera Nacional"]
+      },
+      "uber_zone": {
+        "pickup": "Zona Este",
+        "dropoff": "Zona Norte"
+      }
+    }
+  },
+  "seguridad": {
+    "personal": {
+      "guardias": 500,
+      "policia": 200,
+      "transito": 100,
+      "proteccion_civil": 50
+    },
+    "tecnologia": {
+      "camaras": 200,
+      "detectores_metal": 40,
+      "brazaletes_rfid": true,
+      "drones": 5
+    },
+    "protocolos": {
+      "evacuacion": "6 rutas señalizadas",
+      "primeros_auxilios": "10 estaciones",
+      "punto_reunion": "4 zonas seguras"
+    }
+  },
+  "servicios": {
+    "gastronomia": {
+      "food_trucks": 50,
+      "restaurantes": 20,
+      "puestos_rapidos": 100,
+      "opciones": ["Mexicana", "Internacional", "Vegana", "Vegetariana", "Sin Gluten"]
+    },
+    "bebidas": {
+      "barras": 80,
+      "puntos_agua": 40,
+      "precio_cerveza": "$120",
+      "precio_agua": "$40",
+      "precio_refresco": "$60"
+    },
+    "sanitarios": {
+      "normales": 400,
+      "vip": 100,
+      "discapacitados": 50,
+      "familiares": 30
+    },
+    "otros": {
+      "atm": 20,
+      "cargadores": 50,
+      "lockers": 2000,
+      "merchandising": 15
+    }
+  },
+  "sustentabilidad": {
+    "reciclaje": {
+      "estaciones": 100,
+      "tipos": ["Plástico", "Aluminio", "Orgánico", "Papel"]
+    },
+    "energia": {
+      "paneles_solares": "30% del consumo",
+      "generadores": "Biodiesel"
+    },
+    "agua": {
+      "tratamiento": "In situ",
+      "reutilizacion": "Riego"
+    },
+    "compensacion": {
+      "arboles_plantados": 10000,
+      "huella_carbono": "Neutral"
+    }
+  },
+  "tecnologia": {
+    "app_oficial": {
+      "funciones": ["Horarios", "Mapa", "Favoritos", "Notificaciones", "Cashless"],
+      "descargas_2024": 150000,
+      "rating": 4.5
+    },
+    "streaming": {
+      "plataformas": ["YouTube", "TikTok", "Instagram"],
+      "camaras": 30,
+      "horas_transmitidas": 72
+    },
+    "redes": {
+      "wifi": "Gratuito en zonas VIP",
+      "antenas_5g": 10,
+      "capacidad": "50,000 usuarios simultáneos"
+    }
+  },
+  "experiencias_especiales": {
+    "meet_greet": {
+      "artistas": 30,
+      "ganadores": 300,
+      "duracion": "15 minutos"
+    },
+    "activaciones": {
+      "marcas": 15,
+      "juegos": 20,
+      "premios": 5000
+    },
+    "arte": {
+      "instalaciones": 10,
+      "murales": 20,
+      "esculturas": 5
+    }
+  },
+  "historico": {
+    "asistencia": {
+      "2024": 210000,
+      "2023": 202000,
+      "2022": 195000,
+      "2021": "Cancelado",
+      "2020": "Cancelado",
+      "2019": 190000
+    },
+    "artistas_totales": {
+      "2024": 150,
+      "2023": 142,
+      "2022": 138,
+      "2019": 130
+    },
+    "record_publico": {
+      "artista": "Bad Bunny",
+      "año": 2024,
+      "asistentes": 65000
+    }
+  }
+}

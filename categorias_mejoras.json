@@ -1,0 +1,1676 @@
+{
+  "categorias": {
+    "BAÑOS": {
+      "palabras": [
+        "baño", "baños", "sanitario", "sanitarios", "wc", "toilet", 
+        "lavabo", "inodoro", "regadera", "duchas", "bath", "restroom",
+        "letrina", "excusado", "servicio", "servicios", "lavamanos",
+        "urinario", "mingitorio", "bathroom", "toilette", "aseo",
+        "retrete", "privado", "sanitary", "restrooms", "washroom",
+        "portatil", "portatiles", "banos portatiles", "sani", "dixi"
+      ],
+      "peso": 10,
+      "critico": true,
+      "subcategorias": {
+        "cantidad": [
+          "mas baños", "pocos baños", "faltan baños", "insuficientes baños",
+          "necesitan mas", "muy pocos", "no alcanzan", "saturados",
+          "hacer fila", "esperar mucho", "colas eternas", "no hay suficientes",
+          "aumentar numero", "duplicar baños", "triplicar", "necesitamos el doble",
+          "ratio personas", "1 baño por mil", "minimo baños", "agregar unidades"
+        ],
+        "limpieza": [
+          "baños sucios", "limpiar baños", "higiene", "asquerosos", "cochinos",
+          "mugrosos", "limpien", "mantenimiento", "papel", "jabon",
+          "sin papel", "falta jabon", "mal olor", "apestan", "inmundos",
+          "desinfectar", "sanitizar", "personal limpieza", "cada hora",
+          "productos limpieza", "cloro", "desinfectante", "aromatizante",
+          "vomito", "caca", "orina", "desbordado", "tapado", "asco total"
+        ],
+        "filas": [
+          "fila baños", "esperar baño", "cola sanitarios", "mucha gente",
+          "tiempo espera", "largas filas", "interminable", "desesperante",
+          "perder tiempo", "media hora", "45 minutos", "una hora",
+          "fila mujeres", "fila hombres", "sin separar", "juntos",
+          "express", "rapidos", "solo orina", "completos", "turnos"
+        ],
+        "accesibilidad": [
+          "baños discapacitados", "silla ruedas", "rampa", "acceso",
+          "baños familiares", "cambiador bebes", "espacio", "puerta ancha",
+          "barras apoyo", "altura adecuada", "espacio maniobra", "señalizacion braille",
+          "acompañante", "unisex", "genero neutro", "inclusivos", "para todos"
+        ],
+        "ubicacion": [
+          "lejos baños", "encontrar baños", "donde estan", "mal ubicados",
+          "señalizacion", "no se ven", "escondidos", "buscar mucho",
+          "mapa baños", "app ubicacion", "cada zona", "estrategicos",
+          "cerca escenarios", "zona comida", "zona descanso", "camping"
+        ],
+        "estado": [
+          "baños rotos", "no funcionan", "sin agua", "sin luz", "puerta rota",
+          "cerradura mala", "no cierra", "sin privacidad", "se ve todo",
+          "piso mojado", "inundado", "sin techo", "llueve dentro", "viejos"
+        ],
+        "suministros": [
+          "sin papel higienico", "sin jabon", "sin toallas", "sin gel",
+          "sin agua", "sin luz", "sin espejo", "sin gancho", "sin bote basura",
+          "sin tapa", "sin asiento", "lo basico", "reponer constantemente"
+        ]
+      }
+    },
+    "COMIDA": {
+      "palabras": [
+        "comida", "alimento", "comer", "restaurant", "food", "antojo",
+        "hamburguesa", "pizza", "tacos", "snack", "botana", "comida rapida",
+        "platillo", "menu", "gastronomia", "cocina", "chef", "cocinero",
+        "puesto", "food truck", "carrito", "vendedor", "local", "kiosco",
+        "cafeteria", "restaurante", "fonda", "cocina", "stand comida",
+        "zona comida", "patio comida", "food court", "alimentos", "venta comida",
+        "hot dog", "nachos", "papas", "churros", "elote", "esquite"
+      ],
+      "peso": 8,
+      "critico": false,
+      "subcategorias": {
+        "variedad": [
+          "mas opciones", "poca variedad", "mismo menu", "mas tipos",
+          "vegetariano", "vegano", "sin gluten", "diferentes sabores",
+          "comida internacional", "comida mexicana", "comida sana",
+          "opciones saludables", "para todos gustos", "monotono",
+          "keto", "sin lactosa", "alergias", "restricciones", "dietas",
+          "asiatica", "italiana", "americana", "fusion", "gourmet",
+          "street food", "comfort food", "postres", "dulces", "salado"
+        ],
+        "precio": [
+          "comida cara", "precios altos comida", "muy caro", "abusivo",
+          "robo", "exagerado", "no vale pena", "carísimo", "inflado",
+          "precio justo", "mas barato", "economico", "accesible",
+          "combo", "paquete", "promocion", "descuento", "2x1",
+          "precio aeropuerto", "precio estadio", "atraco", "estafa"
+        ],
+        "calidad": [
+          "comida fria", "mal sabor", "comida mala", "desabrida", "cruda",
+          "quemada", "vieja", "echada perder", "mal preparada", "simple",
+          "sin sazón", "insípida", "grasosa", "aceitosa", "salada",
+          "fresca", "caliente", "sabrosa", "deliciosa", "casera",
+          "industrial", "congelada", "microondas", "recalentada", "dura"
+        ],
+        "tiempo": [
+          "esperar mucho", "tardado", "lento servicio", "rapido", "agil",
+          "demora", "tarda años", "pierdo show", "me pierdo artista",
+          "fast food", "express", "inmediato", "pre orden", "app pedidos",
+          "fila eterna", "un servidor", "poco personal", "saturado"
+        ],
+        "porcion": [
+          "porciones pequeñas", "muy poco", "no llena", "miniatura",
+          "tacaño", "miserable", "hambre", "insuficiente", "raquítico",
+          "generoso", "abundante", "bien servido", "justo", "valor",
+          "niños", "adulto", "compartir", "individual", "familiar"
+        ],
+        "higiene": [
+          "sin guantes", "sin cubrebocas", "sucio", "dudosa procedencia",
+          "mal aspecto", "no confiable", "antihigienico", "contaminado",
+          "certificado", "salubridad", "permisos", "cofia", "mandil",
+          "manos sucias", "sin lavar", "manipulacion", "cross contamination"
+        ],
+        "ubicacion": [
+          "lejos comida", "mal distribuida", "solo un lado", "caminar mucho",
+          "cada zona", "cerca escenarios", "accesible", "visible",
+          "señalizada", "mapa comida", "facil llegar", "central"
+        ],
+        "horario": [
+          "cierran temprano", "abren tarde", "horario limitado", "24 horas",
+          "madrugada", "desayuno", "almuerzo", "cena", "snacks noche",
+          "todo el dia", "sin parar", "continuo", "breaks shows"
+        ]
+      }
+    },
+    "HIDRATACIÓN": {
+      "palabras": [
+        "agua", "hidrata", "bebida", "sed", "beber", "liquido",
+        "agua gratis", "bebedero", "fuente", "hidratacion", "deshidrata",
+        "botella", "vaso", "refill", "rellenar", "h2o", "vital",
+        "tomar agua", "agua potable", "agua limpia", "agua fria",
+        "agua natural", "agua simple", "suero", "electrolitos", "sales",
+        "hidratante", "isotonica", "rehidratacion", "beber agua", "tomar liquidos"
+      ],
+      "peso": 9,
+      "critico": true,
+      "subcategorias": {
+        "acceso": [
+          "falta agua", "sin agua", "conseguir agua", "buscar agua",
+          "no hay", "escasea", "dificil encontrar", "lejos", "oculto",
+          "no encuentro", "donde hay", "necesito agua", "muero sed",
+          "urgente agua", "desesperado", "vital", "critico", "emergencia",
+          "punto agua", "estacion agua", "disponibilidad", "accesibilidad"
+        ],
+        "precio": [
+          "agua cara", "precio agua", "40 pesos", "50 pesos", "abuso",
+          "carísima", "explotacion", "negocio", "lucrar", "aprovechados",
+          "deberia ser gratis", "derecho humano", "inhumano cobrar",
+          "botella 60", "vaso 30", "galon 100", "precio criminal",
+          "monopolio", "sin opciones", "obligado comprar", "extorsion"
+        ],
+        "puntos": [
+          "mas bebederos", "fuentes agua", "estaciones hidratacion",
+          "puntos recarga", "refill stations", "dispensadores", "grifos",
+          "llaves agua", "mas lugares", "cada escenario", "distribuidos",
+          "oasis", "carpas hidratacion", "zonas frescas", "nebulizadores",
+          "aspersores", "cortinas agua", "cooling zones", "refresh points"
+        ],
+        "calidad": [
+          "agua sucia", "sabe mal", "tibia", "caliente", "contaminada",
+          "dudosa", "color raro", "con cosas", "no potable", "da asco",
+          "agua purificada", "filtrada", "limpia", "fresca", "helada",
+          "mineral", "alcalina", "sabe cloro", "sabe metal", "turbia"
+        ],
+        "organizacion": [
+          "sin vasos", "sin botellas", "mal sistema", "no funciona",
+          "descompuesto", "sin presion", "gotea", "roto", "inservible",
+          "mantenimiento", "revisar", "arreglar", "personal agua",
+          "voluntarios", "brigadistas", "equipo hidratacion", "protocolo"
+        ],
+        "cantidad": [
+          "poca agua", "insuficiente", "se acaba", "racionada", "limitada",
+          "sin restricciones", "ilimitada", "abundante", "suficiente",
+          "litros por persona", "minimo vital", "segun temperatura"
+        ],
+        "educacion": [
+          "concientizar", "hidratar antes", "durante", "despues", "tips",
+          "recomendaciones", "señales deshidratacion", "prevencion",
+          "campaña", "recordatorios", "mensajes", "importancia agua"
+        ]
+      }
+    },
+    "SEGURIDAD": {
+      "palabras": [
+        "seguridad", "guardia", "policia", "vigilancia", "seguro",
+        "inseguro", "robo", "proteccion", "staff", "personal seguridad",
+        "elemento", "oficial", "uniformado", "autoridad", "custodia",
+        "resguardo", "cuidado", "vigilante", "patrulla", "ronda",
+        "privada", "publica", "municipal", "estatal", "federal",
+        "ejercito", "marina", "guardia nacional", "proteccion civil"
+      ],
+      "peso": 9,
+      "critico": true,
+      "subcategorias": {
+        "personal": [
+          "mas guardias", "falta seguridad", "pocos elementos", "insuficiente",
+          "no se ven", "ausentes", "donde estan", "necesitamos mas",
+          "desprotegidos", "abandonados", "sin vigilancia", "descuidado",
+          "ratio seguridad", "uno por cada", "distribuidos", "visibles",
+          "presencia", "disuasiva", "preventiva", "reactiva", "profesionales"
+        ],
+        "protocolo": [
+          "revision", "entrada", "salida", "cateo", "registro", "detector",
+          "muy lento", "excesivo", "innecesario", "invasivo", "grosero",
+          "mal trato", "prepotentes", "abusivos", "sin respeto",
+          "protocolo claro", "capacitados", "amables", "eficientes",
+          "rayos x", "perros", "manual", "aleatorio", "sistematico"
+        ],
+        "emergencias": [
+          "medico", "paramedico", "primeros auxilios", "ambulancia",
+          "enfermeria", "doctor", "atencion medica", "urgencias",
+          "accidente", "lesion", "desmayo", "golpe calor", "auxilio",
+          "evacuacion", "punto reunion", "salidas emergencia", "simulacro",
+          "brigadas", "rescate", "bomberos", "helicoptero", "hospital"
+        ],
+        "robos": [
+          "me robaron", "perdida", "carterista", "celular", "cartera",
+          "mochila", "pertenencias", "cuidado", "ratero", "ladron",
+          "inseguro", "peligroso", "banda", "delincuencia",
+          "denuncia", "mp", "reporte", "camara", "testigos",
+          "recuperar", "seguro", "reembolso", "prevencion", "candados"
+        ],
+        "violencia": [
+          "pelea", "golpes", "agresion", "conflicto", "riña", "bronca",
+          "pleito", "violento", "agresivo", "provocador", "problemático",
+          "ebrios", "drogados", "alterados", "control", "sacar",
+          "detener", "separar", "calmar", "mediacion", "cero tolerancia"
+        ],
+        "acoso": [
+          "acoso", "hostigamiento", "incomodo", "invasivo", "tocaron",
+          "manosearon", "faltas respeto", "grosero", "vulgar", "machista",
+          "protocolo genero", "punto seguro", "acompañamiento", "denuncia",
+          "evidencia", "testigos", "apoyo", "contencion", "seguimiento"
+        ],
+        "sustancias": [
+          "drogas", "alcohol", "menores", "intoxicados", "sobredosis",
+          "dealer", "venta", "consumo", "prevencion", "reduccion daños",
+          "testing", "informacion", "educacion", "primeros auxilios"
+        ],
+        "tecnologia": [
+          "camaras", "cctv", "monitoreo", "central", "comunicacion",
+          "radios", "aplicacion", "boton panico", "geolocalizacion",
+          "brazaletes", "chips", "facial", "biometricos", "drones"
+        ]
+      }
+    },
+    "INFRAESTRUCTURA": {
+      "palabras": [
+        "espacio", "lugar", "zona", "área", "sombra", "techo",
+        "piso", "lodo", "pavimento", "instalaciones", "estructura",
+        "construccion", "edificio", "terreno", "suelo", "base",
+        "cimiento", "soporte", "armazon", "esqueleto", "obra",
+        "venue", "recinto", "predio", "explanada", "campo",
+        "infraestructura", "facilidades", "amenidades", "servicios"
+      ],
+      "peso": 7,
+      "critico": false,
+      "subcategorias": {
+        "espacio": [
+          "mas espacio", "muy lleno", "congestion", "aglomeracion",
+          "apretado", "saturado", "no cabe", "claustrofobia", "agobio",
+          "ampliar", "expandir", "crecer", "pequeño", "insuficiente",
+          "densidad", "m2 persona", "capacidad", "aforo", "limite",
+          "distribucion", "layout", "diseño", "flujo", "circulacion"
+        ],
+        "sombra": [
+          "falta sombra", "sol", "techo", "carpa", "toldo", "cubierta",
+          "proteccion sol", "quema", "insolacion", "calor insoportable",
+          "sombrita", "techado", "pergola", "malla sombra", "arboles",
+          "natural", "artificial", "estructuras", "temporal", "permanente",
+          "zonas frescas", "descanso", "refugio", "oasis", "microclima"
+        ],
+        "piso": [
+          "lodo", "charcos", "pavimentar", "tierra", "polvo", "piedras",
+          "desnivel", "hoyos", "tropezar", "caer", "resbaloso", "peligroso",
+          "asfalto", "concreto", "pasto", "mejorar piso", "nivelar",
+          "grava", "arena", "tapetes", "tarimas", "plastico", "drenaje",
+          "permeable", "ecologico", "sustentable", "mantenimiento"
+        ],
+        "señalizacion": [
+          "letreros", "señales", "indicaciones", "flechas", "mapas",
+          "perdido", "desorientado", "no encuentro", "confuso", "laberinto",
+          "marcar", "numerar", "identificar", "nombres", "direcciones",
+          "totems", "banners", "digital", "estatico", "luminoso",
+          "colores", "iconos", "simbolos", "universal", "claro"
+        ],
+        "iluminacion": [
+          "oscuro", "falta luz", "alumbrado", "lamparas", "focos",
+          "no se ve", "peligroso noche", "tropiezo", "inseguro", "tenebroso",
+          "iluminar", "reflectores", "postes luz", "led", "ahorro",
+          "rgb", "ambiente", "funcional", "decorativa", "emergencia",
+          "solar", "sustentable", "inteligente", "automatica", "sensores"
+        ],
+        "accesos": [
+          "entrada", "salida", "puerta", "acceso", "paso", "corredor",
+          "pasillo", "rampa", "escalera", "elevador", "discapacitados",
+          "silla ruedas", "muletas", "baston", "movilidad reducida",
+          "ancho", "altura", "pendiente", "superficie", "barandal",
+          "descansos", "señalizacion", "iluminacion", "antiderrapante"
+        ],
+        "zonificacion": [
+          "zonas", "areas", "sectores", "division", "separacion",
+          "vip", "general", "platinum", "gold", "silver", "bronze",
+          "familiar", "adultos", "fumadores", "no fumadores", "silencio",
+          "actividades", "descanso", "comida", "baile", "servicios"
+        ],
+        "mobiliario": [
+          "bancas", "sillas", "mesas", "sombrillas", "basureros",
+          "bebederos", "lockers", "casilleros", "guardarropa",
+          "cargadores", "usb", "wifi", "puntos encuentro", "arte"
+        ]
+      }
+    },
+    "ORGANIZACIÓN": {
+      "palabras": [
+        "organiza", "logistica", "entrada", "salida", "fila",
+        "desorden", "caos", "planea", "coordina", "horario",
+        "administra", "gestiona", "maneja", "controla", "dirige",
+        "opera", "ejecuta", "implementa", "proceso", "sistema",
+        "eficiencia", "eficacia", "productividad", "optimizacion",
+        "mejora", "calidad", "profesional", "experiencia", "servicio"
+      ],
+      "peso": 8,
+      "critico": false,
+      "subcategorias": {
+        "entradas": [
+          "entrada lenta", "filas entrada", "cola interminable", "horas",
+          "mal sistema", "pocos accesos", "embudo", "cuello botella",
+          "desorganizado", "sin orden", "todos juntos", "separar filas",
+          "express", "vip", "general", "abonados", "preventa", "taquilla",
+          "brazaletes", "qr", "digital", "fisico", "validacion", "scanner"
+        ],
+        "horarios": [
+          "retraso", "puntualidad", "tiempo", "tarde", "demora", "espera",
+          "cancelacion", "cambio horario", "sin aviso", "improvisado",
+          "no respetan", "impuntual", "media hora tarde", "una hora",
+          "cronograma", "schedule", "lineup", "timetable", "agenda",
+          "simultaneo", "traslape", "conflicto", "coordinacion"
+        ],
+        "información": [
+          "señalizacion", "mapas", "app", "informacion", "avisos",
+          "comunicacion", "no avisan", "enterarse", "rumores", "confusion",
+          "desinformacion", "contradiccion", "no saben", "pregunto nadie sabe",
+          "info point", "modulos", "personal", "folletos", "pantallas",
+          "redes sociales", "whatsapp", "telegram", "notificaciones", "push"
+        ],
+        "filas": [
+          "mal organizadas", "sin orden", "se cuelan", "no respetan",
+          "sin control", "salvese quien pueda", "empujan", "aplastan",
+          "separar", "ordenar", "vallas", "personal", "vigilar",
+          "serpentina", "multiple", "single", "fast track", "priority",
+          "turnos", "numeros", "citas", "horarios", "escalonado"
+        ],
+        "personal": [
+          "no saben", "mal capacitados", "groseros", "indiferentes",
+          "no ayudan", "se esconden", "pocos", "insuficientes", "perdidos",
+          "sin uniforme", "no identificados", "confundidos", "novatos",
+          "profesionales", "capacitados", "amables", "serviciales",
+          "proactivos", "solucionan", "empoderados", "decision", "liderazgo"
+        ],
+        "logistica": [
+          "mal planeado", "improvisado", "sin pensar", "amateur",
+          "principiantes", "no profesional", "desastre", "fracaso",
+          "mejor planeacion", "anticipar", "prever", "experiencia",
+          "benchmarking", "mejores practicas", "standards", "iso",
+          "certificacion", "auditoria", "supervision", "control", "kpi"
+        ],
+        "transporte_interno": [
+          "carritos golf", "shuttles", "trenes", "camiones", "bicicletas",
+          "scooters", "movilidad", "traslados", "rutas", "paradas",
+          "frecuencia", "capacidad", "accesible", "gratuito", "pagado"
+        ],
+        "tecnologia": [
+          "sistema", "software", "plataforma", "integracion", "automatizacion",
+          "digitalizacion", "paperless", "cashless", "contactless",
+          "rfid", "nfc", "beacon", "iot", "ai", "machine learning"
+        ]
+      }
+    },
+    "PRECIO": {
+      "palabras": [
+        "precio", "caro", "costoso", "dinero", "pagar", "cobrar",
+        "tarifa", "boleto", "entrada", "abono", "economico", "barato",
+        "valor", "costo", "monto", "cantidad", "efectivo", "tarjeta",
+        "pago", "compra", "venta", "negocio", "ganancia", "lucro",
+        "inversion", "gasto", "presupuesto", "ahorro", "descuento",
+        "promocion", "oferta", "paquete", "combo", "all inclusive"
+      ],
+      "peso": 6,
+      "critico": false,
+      "subcategorias": {
+        "boletos": [
+          "boleto caro", "precio entrada", "muy caro", "excesivo",
+          "inalcanzable", "prohibitivo", "elitista", "solo ricos",
+          "popular", "accesible", "justo", "razonable", "vale pena",
+          "early bird", "preventa", "regular", "puerta", "estudiante",
+          "tercera edad", "niños", "familiar", "grupo", "corporativo"
+        ],
+        "consumo": [
+          "precios altos", "todo caro", "cerveza cara", "comida cara",
+          "agua cara", "merchandise caro", "explotan", "abusan", "roban",
+          "estafa", "negocio redondo", "se aprovechan", "lucran",
+          "markup", "sobreprecio", "inflacion", "especulacion",
+          "monopolio", "cautivo", "sin opciones", "competencia"
+        ],
+        "estacionamiento": [
+          "parking caro", "estacionamiento precio", "200 pesos", "abusivo",
+          "lejos encima caro", "valet carisimo", "mejor uber", "transporte",
+          "incluir precio", "gratis", "convenio", "descuento",
+          "por hora", "por dia", "evento", "preferente", "general",
+          "moto", "bicicleta", "autobus", "camion", "discapacitados"
+        ],
+        "servicios": [
+          "guardarropa", "lockers", "cargadores", "vip", "upgrade",
+          "todo extra", "nada incluido", "cobran todo", "niquelan dime",
+          "gastos ocultos", "sorpresas", "no avisan", "letra chica",
+          "meet greet", "backstage", "foto", "firma", "experiencia",
+          "fast pass", "skip line", "preferente", "exclusive", "premium"
+        ],
+        "comparacion": [
+          "otros festivales", "mas barato", "mejor precio", "competencia",
+          "valor agregado", "que incluye", "beneficios", "ventajas",
+          "descuentos", "promociones", "preventa", "grupos",
+          "coachella", "lollapalooza", "vive latino", "corona", "pal norte"
+        ],
+        "formas_pago": [
+          "efectivo", "tarjeta", "debito", "credito", "transferencia",
+          "paypal", "mercadopago", "oxxo", "spei", "bitcoin",
+          "meses sin intereses", "apartado", "financiamiento", "plan pagos"
+        ],
+        "transparencia": [
+          "desglose", "iva", "servicio", "comision", "cargo", "extra",
+          "incluye", "no incluye", "adicional", "opcional", "obligatorio",
+          "claro", "transparente", "justo", "explicado", "justificado"
+        ],
+        "valor": [
+          "costo beneficio", "vale pena", "worth it", "experiencia",
+          "inolvidable", "unico", "exclusivo", "premium", "basico",
+          "relacion precio", "calidad", "cantidad", "duracion", "contenido"
+        ]
+      }
+    },
+    "LIMPIEZA": {
+      "palabras": [
+        "limpieza", "basura", "sucio", "limpiar", "desperdicios",
+        "mugre", "cochino", "asqueroso", "botes basura", "contenedor",
+        "desecho", "residuo", "tirar", "recoger", "barrer", "lavar",
+        "higiene", "sanidad", "pulcritud", "asco", "inmundicia",
+        "mantenimiento", "aseo", "orden", "presentacion", "imagen",
+        "reciclaje", "sustentable", "ecologico", "verde", "ambiente"
+      ],
+      "peso": 7,
+      "critico": false,
+      "subcategorias": {
+        "general": [
+          "mas limpieza", "muy sucio", "cochinero", "basurero", "asco",
+          "mugroso", "deplorable", "inaceptable", "vergonzoso", "penoso",
+          "limpien", "mantenimiento", "personal limpieza", "constante",
+          "imagen", "presentacion", "primera impresion", "reputacion",
+          "standards", "protocolos", "normas", "certificacion", "auditoria"
+        ],
+        "botes": [
+          "faltan botes", "basureros llenos", "desbordados", "no recogen",
+          "mas contenedores", "estrategicos", "cada area", "señalizados",
+          "reciclaje", "organicos", "inorganicos", "separacion",
+          "pet", "aluminio", "vidrio", "papel", "carton", "composta",
+          "codigo colores", "educacion", "concientizacion", "campaña"
+        ],
+        "personal": [
+          "mas personal limpieza", "no se ven", "pocos", "insuficientes",
+          "trabajando", "activos", "supervisar", "uniformados", "equipados",
+          "herramientas", "carros", "bolsas", "escobas", "recogedores",
+          "guantes", "cubrebocas", "seguridad", "capacitacion", "turnos",
+          "rotacion", "descansos", "motivacion", "reconocimiento"
+        ],
+        "areas": [
+          "baños sucios", "zona comida", "camping", "escenarios", "pasillos",
+          "entradas", "gradas", "vip igual sucio", "general", "todo",
+          "backstage", "camerinos", "produccion", "staff", "publico",
+          "perimetro", "alrededores", "accesos", "estacionamiento"
+        ],
+        "frecuencia": [
+          "limpiar seguido", "cada hora", "constante", "no solo final",
+          "durante evento", "turno", "rotacion", "programado", "sistematico",
+          "preventivo", "correctivo", "emergencia", "especial", "profunda",
+          "pre evento", "durante", "post evento", "24/7", "non stop"
+        ],
+        "residuos": [
+          "vasos", "platos", "cubiertos", "servilletas", "colillas",
+          "botellas", "latas", "envoltorios", "chicles", "confeti",
+          "organico", "inorganico", "peligroso", "especial", "sanitario"
+        ],
+        "sustentabilidad": [
+          "cero residuos", "compostaje", "biodigestor", "reutilizable",
+          "biodegradable", "eco friendly", "huella carbono", "impacto",
+          "responsable", "consciente", "verde", "circular", "regenerativo"
+        ],
+        "olores": [
+          "mal olor", "pestilencia", "hedor", "fetido", "apesta",
+          "aromatizante", "desodorante", "neutralizador", "ventilacion",
+          "aire", "fresco", "agradable", "limpio", "natural"
+        ]
+      }
+    },
+    "MERCHANDISING": {
+      "palabras": [
+        "merch", "merchandise", "playera", "gorra", "recuerdo",
+        "souvenir", "oficial", "ropa", "accesorio", "coleccionable",
+        "articulo", "producto", "venta", "tienda", "stand", "puesto",
+        "diseño", "logo", "marca", "edicion", "limitada", "exclusivo",
+        "camiseta", "sudadera", "hoodie", "tank top", "bandana",
+        "poster", "sticker", "pin", "parche", "llavero", "vaso"
+      ],
+      "peso": 4,
+      "critico": false,
+      "subcategorias": {
+        "variedad": [
+          "mas diseños", "pocas opciones", "mismo siempre", "aburrido",
+          "creatividad", "original", "unico", "especial", "artista",
+          "colaboracion", "todas tallas", "unisex", "mujer", "niños",
+          "colores", "estilos", "vintage", "moderno", "clasico",
+          "minimalista", "maximalista", "artistico", "fotografico"
+        ],
+        "precio": [
+          "merch caro", "precios merchandise", "playera 800", "gorra 500",
+          "exagerado", "vale pena", "calidad precio", "justo", "accesible",
+          "descuentos", "paquetes", "combos", "promociones",
+          "estudiante", "membresia", "loyalty", "puntos", "cashback"
+        ],
+        "calidad": [
+          "mejor calidad", "material malo", "corriente", "chino", "barato",
+          "se rompe", "destiñe", "encoge", "original", "durabilidad",
+          "algodon", "poliester", "mezcla", "premium", "basico",
+          "organico", "sustentable", "reciclado", "fair trade", "local"
+        ],
+        "disponibilidad": [
+          "agotado", "sin tallas", "no hay", "llegar temprano", "apartar",
+          "preventa", "online", "reservar", "stock", "inventario",
+          "reponer", "surtir", "variedad tallas", "XS a XXL",
+          "restock", "segunda vuelta", "last chance", "final sale"
+        ],
+        "ubicacion": [
+          "pocos stands", "lejos", "dificil llegar", "encontrar", "filas",
+          "mas puntos", "cada zona", "estrategico", "visible", "accesible",
+          "entrada", "salida", "escenarios", "food court", "camping"
+        ],
+        "exclusividad": [
+          "edicion limitada", "numerado", "firmado", "especial", "unico",
+          "colaboracion", "artista", "diseñador", "aniversario",
+          "conmemorativo", "vintage", "retro", "throwback", "clasico"
+        ],
+        "proceso_compra": [
+          "fila larga", "lento", "sin sistema", "efectivo solo", "tarjeta",
+          "sin cambio", "mal servicio", "groseros", "sin bolsa",
+          "empaque", "gift", "personalizado", "grabado", "customizado"
+        ],
+        "productos": [
+          "playeras", "gorras", "hoodies", "shorts", "calcetines",
+          "tote bags", "mochilas", "riñoneras", "bandanas", "buffs",
+          "posters", "vinilos", "usb", "digital", "nft", "crypto"
+        ]
+      }
+    },
+    "TECNOLOGÍA": {
+      "palabras": [
+        "app", "aplicacion", "wifi", "internet", "señal", "celular",
+        "pantalla", "tecnologia", "digital", "qr", "cashless",
+        "sistema", "plataforma", "software", "red", "conectividad",
+        "datos", "4g", "5g", "bluetooth", "nfc", "rfid", "chip",
+        "smartphone", "movil", "tablet", "laptop", "dispositivo",
+        "innovacion", "smart", "tech", "digital", "virtual", "online"
+      ],
+      "peso": 5,
+      "critico": false,
+      "subcategorias": {
+        "conectividad": [
+          "sin señal", "wifi malo", "internet lento", "no carga", "saturado",
+          "congestionado", "antenas", "repetidores", "cobertura", "alcance",
+          "mejorar red", "ampliar capacidad", "fibra optica", "satelital",
+          "mesh", "distribuido", "redundante", "backup", "contingencia",
+          "roaming", "carrier", "telcel", "att", "movistar", "unefon"
+        ],
+        "app": [
+          "app no funciona", "problemas app", "crashea", "lenta", "bug",
+          "error", "actualizar", "mejorar", "funciones", "intuitiva",
+          "facil usar", "tutorial", "ayuda", "soporte", "respuesta",
+          "offline", "cache", "sincronizar", "notificaciones", "permisos",
+          "ios", "android", "web", "responsive", "native", "pwa"
+        ],
+        "pagos": [
+          "cashless", "pago digital", "tarjeta", "nfc", "qr", "lector",
+          "no funciona", "rechaza", "sin sistema", "efectivo only",
+          "comision", "cargo extra", "saldo", "recarga", "devolucion",
+          "wallet", "apple pay", "google pay", "samsung pay", "paypal",
+          "crypto", "bitcoin", "ethereum", "stable", "cbdc"
+        ],
+        "pantallas": [
+          "no se ve", "lejos", "pequeña", "pocas", "mal ubicadas",
+          "sin audio", "sincronizar", "calidad", "resolucion", "led",
+          "gigante", "lateral", "multiple", "360", "transmision",
+          "streaming", "broadcast", "delay", "latencia", "4k", "8k",
+          "hdr", "refresh rate", "brillo", "contraste", "viewing angle"
+        ],
+        "innovacion": [
+          "realidad aumentada", "ar", "vr", "interactivo", "experiencia",
+          "inmersivo", "futurista", "vanguardia", "novedoso", "creativo",
+          "hologramas", "proyeccion", "mapping", "laser", "drones",
+          "ai", "machine learning", "reconocimiento", "biometricos"
+        ],
+        "cargadores": [
+          "sin carga", "bateria", "powerbank", "estaciones carga", "usb",
+          "cargador rapido", "inalambrico", "qi", "solar", "portatil",
+          "rental", "lockers carga", "seguro", "disponible", "gratis"
+        ],
+        "streaming": [
+          "transmision en vivo", "youtube", "twitch", "facebook", "instagram",
+          "tiktok", "calidad", "cortes", "audio", "video", "multicamara",
+          "director", "produccion", "behind scenes", "exclusive", "vod"
+        ],
+        "seguridad_digital": [
+          "hackeo", "fraude", "phishing", "datos personales", "privacidad",
+          "gdpr", "aviso privacidad", "terminos", "ssl", "encriptacion",
+          "backup", "recovery", "two factor", "biometrico", "facial"
+        ]
+      }
+    },
+    "SEÑALIZACIÓN": {
+      "palabras": [
+        "señal", "letrero", "mapa", "ubicacion", "direccion",
+        "indicacion", "perdido", "encontrar", "buscar", "donde",
+        "flecha", "cartel", "rotulo", "aviso", "plano", "guia",
+        "orientacion", "referencia", "punto", "marca", "simbolo",
+        "totem", "directorio", "wayfinding", "navegacion", "ruta",
+        "camino", "sendero", "circuito", "recorrido", "itinerario"
+      ],
+      "peso": 6,
+      "critico": false,
+      "subcategorias": {
+        "escenarios": [
+          "encontrar escenario", "ubicar stage", "cual es", "donde queda",
+          "perdido", "confundido", "nombres", "numeros", "identificar",
+          "distinguir", "diferenciar", "colores", "tematica",
+          "principal", "secundario", "alternativo", "electronico", "acustico",
+          "vip", "general", "lateral", "back", "front", "distancia"
+        ],
+        "servicios": [
+          "donde baños", "ubicar comida", "encontrar agua", "primeros auxilios",
+          "informacion", "lost found", "salidas", "entradas", "cajeros",
+          "taquilla", "merchandise", "puntos encuentro", "wifi",
+          "cargadores", "lockers", "guardarropa", "objetos perdidos",
+          "taxi", "uber", "transporte", "estacionamiento", "fumadores"
+        ],
+        "salidas": [
+          "salida emergencia", "evacuacion", "rutas escape", "punto reunion",
+          "seguridad", "protocolo", "simulacro", "capacitacion", "visible",
+          "iluminado", "despejado", "señalizado", "mapa evacuacion",
+          "alarma", "megafono", "brigadas", "lideres", "assembly point"
+        ],
+        "idiomas": [
+          "ingles", "español", "bilingue", "traduccion", "simbolos",
+          "universal", "iconos", "pictogramas", "entendible", "claro",
+          "braille", "señas", "audio", "multilingue", "internacional"
+        ],
+        "tecnologia": [
+          "qr codes", "app", "gps", "bluetooth beacons", "realidad aumentada",
+          "interactivo", "digital", "pantallas", "actualizacion tiempo real",
+          "push notifications", "geofencing", "indoor navigation", "wayfinder"
+        ],
+        "diseño": [
+          "colores", "contraste", "tamaño", "altura", "distancia lectura",
+          "tipografia", "legible", "claro", "simple", "consistente",
+          "marca", "identidad", "sistema", "jerarquia", "coherente"
+        ],
+        "mantenimiento": [
+          "rotos", "vandalizados", "borrados", "desactualizados", "mal estado",
+          "reponer", "actualizar", "limpiar", "revisar", "inventario",
+          "reporte", "seguimiento", "responsable", "calendario", "rutina"
+        ],
+        "ubicaciones_criticas": [
+          "cruces", "intersecciones", "decision points", "entradas", "salidas",
+          "cambios nivel", "puentes", "tuneles", "areas congestion",
+          "puntos interes", "servicios", "emergencias", "informacion"
+        ]
+      }
+    },
+    "ESPACIO": {
+      "palabras": [
+        "espacio", "lugar", "lleno", "apretado", "amplio",
+        "saturado", "capacidad", "aforo", "multitud", "gente",
+        "aglomeracion", "congestion", "hacinamiento", "densidad",
+        "ocupacion", "disponibilidad", "libre", "vacio", "ocupado",
+        "área", "superficie", "metros", "dimensiones", "tamaño",
+        "proporcion", "distribucion", "layout", "diseño", "flujo"
+      ],
+      "peso": 7,
+      "critico": false,
+      "subcategorias": {
+        "general": [
+          "mas espacio", "muy apretado", "sardinas", "lata", "agobio",
+          "claustrofobia", "no se puede mover", "empujones", "pisotones",
+          "ampliar", "redistribuir", "zonificar", "delimitar",
+          "personal space", "burbuja", "distancia", "separacion",
+          "protocolo covid", "sana distancia", "nueva normalidad"
+        ],
+        "vip": [
+          "zona vip pequeña", "ampliar vip", "no vale pena", "igual lleno",
+          "prometieron exclusivo", "pague mas", "mismo problema", "estafa",
+          "mejorar", "real vip", "verdadero valor", "diferenciador",
+          "premium", "platinum", "gold", "silver", "beneficios reales",
+          "espacio exclusivo", "menos gente", "comfort", "lujo"
+        ],
+        "descanso": [
+          "areas descanso", "lugar sentarse", "sombra", "relax", "chill",
+          "picnic", "mantas", "sillas", "bancas", "gradas", "pasto",
+          "alejado musica", "tranquilo", "recuperar", "respiro",
+          "lounge", "chill out", "quiet zone", "meditation", "wellness",
+          "hamacas", "puffs", "colchonetas", "carpas", "oasis"
+        ],
+        "circulacion": [
+          "pasillos", "caminos", "rutas", "flujo", "transito", "movimiento",
+          "embotellamiento", "trafico", "one way", "direccion", "sentido",
+          "ampliar", "alternativas", "opciones", "distribuir",
+          "arterias", "venas", "principal", "secundario", "emergencia",
+          "bypass", "atajo", "express", "local", "perimetral"
+        ],
+        "seguridad": [
+          "distancia", "personal space", "burbuja", "limite", "capacidad maxima",
+          "sobrecupo", "peligroso", "estampida", "panico", "control",
+          "regular", "medir", "conteo", "acceso", "restriccion",
+          "densidad segura", "evacuacion", "tiempo salida", "simulacro",
+          "protocolos", "normas", "certificacion", "bomberos", "pc"
+        ],
+        "actividades": [
+          "zona baile", "mosh pit", "pogo", "slam", "circle pit",
+          "wall death", "crowd surf", "stage dive", "barrera", "front",
+          "activaciones", "experiencias", "juegos", "concursos", "meet greet",
+          "firma autografos", "foto", "karaoke", "silent disco"
+        ],
+        "microespacios": [
+          "baños", "barras", "food trucks", "merch", "info", "medicos",
+          "cajeros", "taquillas", "accesos", "salidas", "transporte",
+          "todos saturados", "filas", "espera", "congestion", "caos"
+        ],
+        "diseño_espacial": [
+          "arquitectura", "urbanismo", "landscape", "ergonomia", "flow",
+          "wayfinding", "señaletica", "iluminacion", "acustica", "clima",
+          "experiencia usuario", "customer journey", "touch points", "pain points"
+        ]
+      }
+    },
+    "BEBIDAS": {
+      "palabras": [
+        "bebida", "cerveza", "alcohol", "refresco", "bar",
+        "barra", "coctel", "trago", "chela", "drink",
+        "liquido", "tomar", "beber", "sed", "refrescante",
+        "frio", "hielo", "vaso", "copa", "botella",
+        "lata", "barril", "tap", "draft", "mixer",
+        "shot", "caballito", "jarra", "tarro", "beberage"
+      ],
+      "peso": 6,
+      "critico": false,
+      "subcategorias": {
+        "variedad": [
+          "mas opciones bebidas", "solo cerveza", "cocktails", "vino",
+          "destilados", "mezcal", "tequila", "whisky", "ron", "vodka",
+          "sin alcohol", "mocktails", "aguas frescas", "jugos", "smoothies",
+          "kombucha", "cerveza artesanal", "craft", "local", "importada",
+          "clara", "oscura", "ipa", "lager", "stout", "porter",
+          "hard seltzer", "sidra", "pulque", "tepache", "michelada"
+        ],
+        "precio": [
+          "bebidas caras", "precio alcohol", "cerveza 120", "cocktail 200",
+          "robo", "abuso", "explotacion", "festival prices", "aeropuerto",
+          "razonable", "justo", "happy hour", "promociones", "2x1",
+          "barra libre", "open bar", "paquete bebidas", "wristband",
+          "preventa", "combo", "refill", "vaso souvenir", "descuento"
+        ],
+        "puntos": [
+          "mas barras", "pocos puntos venta", "filas eternas", "esperar mucho",
+          "pierdo artista", "estrategicas", "cada zona", "suficientes",
+          "personal", "rapido", "eficiente", "sistema", "varios cajeros",
+          "express bar", "beer only", "cocktail bar", "premium bar",
+          "self service", "vending", "movil", "carrito", "backpack"
+        ],
+        "calidad": [
+          "cerveza caliente", "sin gas", "aguada", "mal servida", "espuma",
+          "poco alcohol", "mal mezclado", "sin hielo", "hielo sucio",
+          "vasos sucios", "marca patito", "original", "premium",
+          "temperatura", "fria", "helada", "al tiempo", "tibia",
+          "proporcion", "medida", "consistencia", "sabor", "aroma"
+        ],
+        "servicio": [
+          "bartenders lentos", "no saben", "mal capacitados", "groseros",
+          "se equivocan", "cobran de mas", "no dan cambio", "propina forzada",
+          "profesionales", "rapidos", "amables", "honestos",
+          "flair", "show", "experiencia", "conocimiento", "recomendaciones",
+          "velocidad", "precision", "actitud", "uniforme", "limpieza"
+        ],
+        "presentacion": [
+          "vaso sucio", "sin decoracion", "mal presentado", "sin servilleta",
+          "derramado", "sin popote", "sin agitador", "sin limon",
+          "garnish", "rim", "salt", "tamarindo", "chamoy", "fruta",
+          "hielo forma", "esfera", "cubos", "frappe", "frozen"
+        ],
+        "responsabilidad": [
+          "conductor designado", "uber", "taxi", "no manejes", "modera",
+          "agua gratis", "hidratacion", "alimentos", "educacion",
+          "edad", "identificacion", "menores", "control", "seguridad"
+        ],
+        "desperdicios": [
+          "vasos plastico", "popotes", "tapas", "botellas", "latas",
+          "reciclaje", "reutilizable", "biodegradable", "composta",
+          "retornable", "deposito", "incentivo", "ecologico", "sustentable"
+        ]
+      }
+    },
+    "TRANSPORTE": {
+      "palabras": [
+        "transporte", "uber", "taxi", "camion", "autobus",
+        "llegar", "salir", "trafico", "estacionamiento", "parking",
+        "carro", "coche", "vehiculo", "moto", "bicicleta",
+        "caminar", "shuttle", "transfer", "traslado", "viaje",
+        "ruta", "trayecto", "distancia", "tiempo", "acceso",
+        "movilidad", "desplazamiento", "conexion", "enlace", "transbordo"
+      ],
+      "peso": 5,
+      "critico": false,
+      "subcategorias": {
+        "acceso": [
+          "dificil llegar", "lejos entrada", "sin transporte", "mal ubicado",
+          "sin señalizacion", "perderse", "no hay como", "complicado",
+          "facil acceso", "bien comunicado", "cerca metro", "rutas",
+          "autopista", "carretera", "avenida", "calle", "periferico",
+          "indicaciones", "waze", "google maps", "navegacion", "gps"
+        ],
+        "salida": [
+          "caos salida", "no hay transporte", "saturado", "horas esperar",
+          "sin taxis", "uber no llega", "cancelan", "surge pricing",
+          "organizar", "escalonar", "alternativas", "opciones",
+          "zona uber", "sitio taxi", "paradero", "base", "terminal",
+          "coordinacion", "comunicacion", "informacion", "actualizacion"
+        ],
+        "estacionamiento": [
+          "falta parking", "estacionamiento lejos", "caro", "sin lugares",
+          "mal organizado", "sin seguridad", "robos", "daños", "valet",
+          "mas espacios", "cerca", "iluminado", "vigilado", "techado",
+          "pavimentado", "señalizado", "numerado", "sectores", "niveles",
+          "entradas", "salidas", "flujo", "capacidad", "tarifas"
+        ],
+        "shuttles": [
+          "pocos shuttles", "horarios", "rutas", "frecuencia", "capacidad",
+          "sin info", "donde paran", "costo", "incluido", "convenios",
+          "hoteles", "zonas", "aeropuerto", "central camiones",
+          "identificados", "seguros", "comodos", "aire acondicionado",
+          "accesibles", "mascotas", "equipaje", "bicicletas"
+        ],
+        "alternativas": [
+          "bicicleta", "scooter", "moto", "carpooling", "compartir",
+          "ecologico", "sustentable", "economico", "seguro", "rapido",
+          "conveniente", "app", "plataforma", "registro", "verificado",
+          "electrico", "hibrido", "publico", "privado", "colectivo",
+          "ride sharing", "van pool", "park ride", "kiss ride"
+        ],
+        "publico": [
+          "metro", "metrobus", "camion", "pesero", "combi", "colectivo",
+          "tren", "tranvia", "teleferico", "ecobici", "ruta", "linea",
+          "estacion", "parada", "terminal", "transbordo", "conexion",
+          "tarjeta", "boleto", "tarifa", "horario", "frecuencia"
+        ],
+        "seguridad_vial": [
+          "accidentes", "choques", "atropellos", "señalizacion", "semaforos",
+          "cruces", "puentes", "pasos peatonales", "ciclovias", "banquetas",
+          "iluminacion", "vigilancia", "radar", "alcoholimetro", "operativo"
+        ],
+        "informacion": [
+          "mapas", "rutas", "horarios", "tarifas", "apps", "web",
+          "call center", "whatsapp", "redes sociales", "tiempo real",
+          "actualizaciones", "cambios", "alternativas", "emergencias"
+        ]
+      }
+    },
+    "SONIDO": {
+      "palabras": [
+        "sonido", "audio", "volumen", "bocina", "speaker",
+        "escuchar", "oir", "acustica", "eco", "ruido",
+        "calidad", "nitidez", "claridad", "potencia", "frecuencia",
+        "graves", "agudos", "medios", "balance", "ecualizacion",
+        "amplificador", "consola", "mixer", "microfono", "monitor",
+        "pa system", "line array", "subwoofer", "tweeter", "crossover"
+      ],
+      "peso": 6,
+      "critico": false,
+      "subcategorias": {
+        "calidad": [
+          "mal sonido", "audio malo", "distorsionado", "saturado", "opaco",
+          "no se entiende", "empastado", "sin definicion", "amateur",
+          "profesional", "cristalino", "limpio", "balanceado", "hifi",
+          "definido", "separacion", "imagen stereo", "profundidad",
+          "dinamica", "headroom", "compresion", "limitador", "eq"
+        ],
+        "volumen": [
+          "muy alto", "no se escucha", "desbalanceado", "irregular",
+          "lastima oidos", "sordo", "bajo", "no llega", "solo adelante",
+          "regular", "zonas", "gradual", "adecuado", "limite db",
+          "spl", "medicion", "normativa", "proteccion auditiva", "tapones"
+        ],
+        "interferencia": [
+          "ruido otros escenarios", "se mezcla", "confusion", "no se distingue",
+          "overlap", "simultaneo", "coordinacion", "horarios", "direccional",
+          "barriers", "absorcion", "aislamiento", "separacion",
+          "fase", "cancelacion", "feedback", "acople", "resonancia"
+        ],
+        "cobertura": [
+          "solo enfrente", "atras nada", "lados mal", "puntos muertos",
+          "delay", "desfase", "line array", "distribuido", "envolvente",
+          "360", "uniforme", "alcance", "potencia", "diseño",
+          "throw", "dispersion", "pattern", "coverage", "splay"
+        ],
+        "tecnicos": [
+          "ingenieros audio", "monitoreo", "mezcla", "fallas", "cortes",
+          "feedback", "microfonos", "instrumentos", "backline", "pruebas",
+          "soundcheck", "profesionales", "experiencia", "certificados",
+          "rider tecnico", "especificaciones", "requerimientos", "setup"
+        ],
+        "generos": [
+          "rock alto", "electronica fuerte", "acustico bajo", "regional",
+          "cada genero", "necesidades", "especificas", "adaptar",
+          "versatil", "flexible", "presets", "escenas", "memorias"
+        ],
+        "monitores": [
+          "artistas no escuchan", "monitores malos", "in ears", "wedges",
+          "side fills", "drum fill", "mezcla monitor", "ingeniero",
+          "comunicacion", "señas", "cue", "talkback", "clear com"
+        ],
+        "efectos": [
+          "reverb", "delay", "chorus", "flanger", "distorsion",
+          "compresion", "gate", "auto tune", "vocoder", "harmonizer",
+          "especiales", "creativos", "produccion", "show", "experiencia"
+        ]
+      }
+    },
+    "ILUMINACIÓN": {
+      "palabras": [
+        "luz", "iluminacion", "oscuro", "alumbrado", "foco",
+        "lampara", "reflector", "luces", "pantalla", "laser",
+        "led", "neon", "estrobo", "efectos", "show",
+        "brillo", "intensidad", "color", "patron", "diseño",
+        "lighting", "dmx", "consola luces", "moving head", "wash",
+        "spot", "beam", "gobo", "follow spot", "diseñador luces"
+      ],
+      "peso": 5,
+      "critico": false,
+      "subcategorias": {
+        "seguridad": [
+          "zonas oscuras", "falta luz", "peligroso", "no se ve", "tropezar",
+          "caer", "accidentes", "delincuencia", "miedo", "inseguro",
+          "iluminar", "postes", "faroles", "emergencia", "señalizacion",
+          "minimo lux", "normativa", "rutas evacuacion", "escaleras"
+        ],
+        "show": [
+          "mejores luces", "efectos visuales", "laser", "pirotecnia", "led",
+          "pantallas", "mapping", "sincronizado", "creativo", "impactante",
+          "inmersivo", "experiencia", "wow", "espectacular", "unico",
+          "timecode", "automatizado", "programado", "en vivo", "busking"
+        ],
+        "pantallas": [
+          "pantallas pequeñas", "no se ve", "lejos", "baja resolucion",
+          "sin brillo", "sol", "reflejos", "angulo", "altura",
+          "mas pantallas", "gigantes", "4k", "8k", "oled",
+          "pitch", "refresh", "contraste", "color", "calibracion"
+        ],
+        "ambiente": [
+          "atmosfera", "mood", "colores", "tematica", "decoracion",
+          "arte luz", "instalaciones", "interactivo", "participativo",
+          "instagram", "foto", "selfie", "memorable", "magico",
+          "gobos", "texturas", "patrones", "logo", "branding"
+        ],
+        "sustentable": [
+          "led", "ahorro", "solar", "eficiente", "ecologico",
+          "consumo", "huella carbono", "verde", "responsable",
+          "tecnologia", "innovacion", "futuro", "consciente",
+          "bateria", "generador", "hibrido", "renovable"
+        ],
+        "control": [
+          "consola", "dmx", "artnet", "sacn", "wireless", "timecode",
+          "midi", "osc", "automation", "cues", "scenes", "chases",
+          "efectos", "macros", "presets", "backup", "redundancia"
+        ],
+        "tipos": [
+          "wash", "spot", "beam", "led", "tungsten", "discharge",
+          "moving", "static", "convencional", "inteligente", "robotica",
+          "architectural", "decorativa", "funcional", "emergencia"
+        ],
+        "efectos_especiales": [
+          "humo", "niebla", "haze", "co2", "confeti", "serpentina",
+          "fuego", "pirotecnia", "agua", "burbujas", "nieve",
+          "proyeccion", "hologramas", "ar", "vr", "interactivo"
+        ]
+      }
+    },
+    "ACCESIBILIDAD": {
+      "palabras": [
+        "accesible", "discapacidad", "rampa", "silla ruedas",
+        "inclusivo", "plataforma", "elevador", "apoyo", "asistencia",
+        "movilidad", "reducida", "especial", "adaptado", "universal",
+        "barreras", "obstaculo", "facilidad", "ayuda", "acompañante",
+        "inclusion", "diversidad", "equidad", "igualdad", "derechos",
+        "dignidad", "respeto", "autonomia", "independencia", "normativa"
+      ],
+      "peso": 8,
+      "critico": true,
+      "subcategorias": {
+        "infraestructura": [
+          "faltan rampas", "no accesible", "escalones", "desnivel", "estrecho",
+          "sin elevador", "mal diseñado", "improvisado", "parchado",
+          "verdadera inclusion", "universal design", "pensar todos",
+          "pendiente adecuada", "ancho suficiente", "superficie", "barandales",
+          "descansos", "giros", "radios", "normas", "certificacion"
+        ],
+        "servicios": [
+          "baños accesibles", "zonas especiales", "vista", "plataforma elevada",
+          "estacionamiento", "entrada preferente", "sin filas", "acompañante",
+          "interprete señas", "braille", "audio descripcion", "apoyo",
+          "perros guia", "animales servicio", "asistencia personal",
+          "sillas prestamo", "transporte", "acompañamiento", "orientacion"
+        ],
+        "personal": [
+          "apoyo discapacidad", "capacitado", "sensible", "empatico", "ayuda",
+          "asistencia", "guia", "informacion", "paciencia", "respeto",
+          "dignidad", "profesional", "entrenado", "certificado",
+          "lenguaje inclusivo", "actitud", "proactivo", "disponible",
+          "identificado", "especializado", "experiencia", "vocacion"
+        ],
+        "comunicacion": [
+          "señas", "braille", "audio", "visual", "tacil", "app accesible",
+          "subtitulos", "interprete", "lenguaje claro", "pictogramas",
+          "alto contraste", "letra grande", "facil lectura",
+          "audiodescripcion", "bucle magnetico", "fm", "infrarrojo"
+        ],
+        "experiencia": [
+          "incluir", "participar", "disfrutar igual", "no segregar", "integrar",
+          "normalizar", "digno", "respeto", "igualdad", "equidad",
+          "mismas oportunidades", "sin discriminacion", "pleno",
+          "autonomia", "decision", "preferencias", "necesidades", "adaptaciones"
+        ],
+        "tipos_discapacidad": [
+          "motriz", "visual", "auditiva", "intelectual", "psicosocial",
+          "multiple", "temporal", "permanente", "progresiva", "invisible",
+          "autismo", "asperger", "down", "paralisis", "amputacion"
+        ],
+        "tecnologia_asistiva": [
+          "protesis", "ortesis", "baston", "muletas", "andadera",
+          "silla manual", "silla electrica", "scooter", "perro guia",
+          "baston blanco", "lupa", "audifono", "implante coclear"
+        ],
+        "normativa": [
+          "convencion onu", "ley inclusion", "normas accesibilidad", "ada",
+          "certificacion", "auditoria", "cumplimiento", "multas", "derechos",
+          "obligaciones", "responsabilidad", "demanda", "queja", "conapred"
+        ]
+      }
+    },
+    "PRIMEROS_AUXILIOS": {
+      "palabras": [
+        "medico", "doctor", "enfermero", "salud", "emergencia",
+        "ambulancia", "hospital", "herido", "auxilio", "cruz roja",
+        "paramedico", "rescate", "atencion", "urgencia", "accidente",
+        "enfermeria", "clinica", "medicamento", "tratamiento", "cuidado",
+        "primeros auxilios", "paramedicos", "urgencias", "emergencias",
+        "vida", "muerte", "grave", "critico", "estable", "trauma"
+      ],
+      "peso": 9,
+      "critico": true,
+      "subcategorias": {
+        "personal": [
+          "mas medicos", "pocos paramedicos", "sin personal", "insuficiente",
+          "no encuentro", "ocupados", "saturados", "necesitamos mas",
+          "profesionales", "capacitados", "certificados", "experiencia",
+          "medico", "enfermero", "paramedico", "tum", "tumb", "tema",
+          "especialista", "urgenciologo", "traumatologo", "internista"
+        ],
+        "ubicacion": [
+          "donde medicos", "lejos enfermeria", "mal ubicada", "escondida",
+          "sin señalizacion", "no visible", "encontrar", "perdido",
+          "central", "cada zona", "cerca escenarios", "accesible",
+          "identificada", "iluminada", "rotulada", "mapa", "app"
+        ],
+        "equipo": [
+          "falta equipo medico", "sin medicinas", "basico", "improvisado",
+          "sin oxigeno", "sin camillas", "sin desfibrilador", "sin suero",
+          "completo", "moderno", "suficiente", "emergencias", "trauma",
+          "monitor", "ventilador", "aspirador", "inmovilizadores", "collarines"
+        ],
+        "atencion": [
+          "lenta", "mala atencion", "sin interes", "minimizar", "no caso",
+          "rapida", "eficiente", "profesional", "empatica", "seria",
+          "protocolo", "triage", "prioridad", "evaluacion",
+          "estabilizacion", "traslado", "referencia", "seguimiento"
+        ],
+        "prevencion": [
+          "hidratacion", "sombra", "golpe calor", "deshidratacion", "desmayo",
+          "advertencias", "consejos", "educacion", "campaña", "informacion",
+          "anticipar", "evitar", "cuidados", "recomendaciones",
+          "factores riesgo", "poblacion vulnerable", "comorbilidades"
+        ],
+        "tipos_emergencias": [
+          "golpe calor", "deshidratacion", "desmayo", "convulsion", "infarto",
+          "fractura", "esguince", "cortada", "intoxicacion", "alergia",
+          "asma", "panico", "ansiedad", "sobredosis", "alcohol"
+        ],
+        "protocolos": [
+          "codigo azul", "codigo rojo", "activacion", "cadena supervivencia",
+          "rcp", "dea", "via aerea", "control hemorragia", "inmovilizacion",
+          "traslado", "comunicacion", "registro", "reporte", "seguimiento"
+        ],
+        "infraestructura_medica": [
+          "modulos", "carpas", "clinica movil", "ambulancia", "helicoptero",
+          "area triage", "observacion", "procedimientos", "farmacia",
+          "almacen", "refrigeracion", "gases", "energia", "agua"
+        ]
+      }
+    },
+    "CLIMA": {
+      "palabras": [
+        "lluvia", "sol", "calor", "frio", "viento", "clima",
+        "tiempo", "nublado", "tormenta", "temperatura",
+        "humedad", "presion", "pronostico", "meteorologico",
+        "temporal", "granizo", "helada", "neblina", "bruma",
+        "weather", "forecast", "meteorologia", "condiciones", "elementos"
+      ],
+      "peso": 3,
+      "critico": false,
+      "subcategorias": {
+        "proteccion": [
+          "techo lluvia", "sombra sol", "refugio", "cubierto", "proteger",
+          "guardar", "secar", "toldo", "carpa", "paraguas",
+          "impermeable", "plastico", "lona", "resistente",
+          "domo", "estructura", "temporal", "permanente", "movil"
+        ],
+        "preparacion": [
+          "avisar clima", "plan lluvia", "contingencia", "protocolo",
+          "alternativa", "cancelacion", "posposicion", "comunicar",
+          "actualizar", "app", "redes", "tiempo real", "alertas",
+          "meteorologo", "estacion", "radar", "satelite", "modelo"
+        ],
+        "servicios": [
+          "venta paraguas", "impermeables", "ponchos", "bloqueador",
+          "gorras", "agua extra", "rehidratacion", "ventiladores",
+          "nebulizadores", "calefaccion", "mantas", "bebidas calientes",
+          "toallas", "cambio ropa", "secadores", "lockers secos"
+        ],
+        "infraestructura": [
+          "drenaje", "charcos", "inundacion", "lodo", "resbalar",
+          "caminos alternos", "puentes", "tarimas", "elevado",
+          "bombeo", "secado", "mantenimiento", "limpieza",
+          "alcantarillas", "canales", "cisternas", "tanques"
+        ],
+        "efectos_salud": [
+          "golpe calor", "deshidratacion", "insolacion", "quemaduras",
+          "hipotermia", "resfriado", "neumonia", "alergias",
+          "asma", "migraña", "presion", "articulaciones"
+        ],
+        "comunicacion": [
+          "alertas", "avisos", "notificaciones", "sms", "push",
+          "pantallas", "audio", "staff", "brigadistas", "voceros",
+          "multilenguaje", "señas", "visual", "sonora"
+        ],
+        "adaptacion_show": [
+          "acortar", "pausar", "cancelar", "posponer", "reubicar",
+          "techado", "indoor", "plan b", "artista acustico",
+          "unplugged", "dj set", "meet greet", "streaming"
+        ]
+      }
+    },
+    "CAMPING": {
+      "palabras": [
+        "camping", "campamento", "tienda", "campaña", "carpa",
+        "dormir", "acampar", "pernoctar", "estancia", "hospedaje",
+        "casa campaña", "sleeping", "colchon", "inflable", "mochila",
+        "camper", "rv", "trailer", "autocaravana", "glamping",
+        "hostal", "hotel", "airbnb", "couchsurfing", "quedarse"
+      ],
+      "peso": 5,
+      "critico": false,
+      "subcategorias": {
+        "espacio": [
+          "poco espacio", "amontonados", "sin privacidad", "pegados",
+          "delimitar", "marcar", "respetar", "organizar", "distribuir",
+          "ampliar zona", "mas terreno", "separacion", "pasillos",
+          "metros cuadrados", "densidad", "capacidad", "sectores",
+          "familiar", "amigos", "solo", "pareja", "grupos"
+        ],
+        "servicios": [
+          "duchas", "baños", "agua", "luz", "cargadores", "lockers",
+          "seguridad", "vigilancia", "limpieza", "basura", "reciclaje",
+          "tienda", "comida", "primeros auxilios", "informacion",
+          "wifi", "lavanderia", "cocina", "parrillas", "mesas"
+        ],
+        "seguridad": [
+          "robos", "vigilancia", "rondines", "identificacion", "registro",
+          "control acceso", "brazaletes", "camaras", "iluminacion",
+          "cerco", "perimetro", "guardias", "24 horas",
+          "caseta", "bitacora", "protocolos", "emergencias", "evacuacion"
+        ],
+        "comodidad": [
+          "piso duro", "piedras", "desnivel", "inundable", "ruido",
+          "nivelar", "pasto", "sombra", "servicios cerca", "tranquilo",
+          "silencio horario", "respeto", "convivencia", "reglas",
+          "colchones", "almohadas", "cobijas", "sillas", "mesas"
+        ],
+        "clima": [
+          "lluvia", "viento", "sol", "frio", "calor", "proteccion",
+          "drenaje", "refugios", "emergencia", "evacuacion", "seguro",
+          "resistente", "anclajes", "refuerzos", "kit emergencia",
+          "impermeabilizante", "aislante", "ventilacion", "mosquiteros"
+        ],
+        "opciones": [
+          "camping basico", "glamping", "rv park", "zona vip",
+          "pre armado", "rental", "paquetes", "todo incluido",
+          "solo terreno", "con servicios", "premium", "economico"
+        ],
+        "actividades": [
+          "fogata", "musica", "juegos", "deportes", "yoga",
+          "meditacion", "talleres", "charlas", "convivencia",
+          "after party", "jam session", "open mic", "proyecciones"
+        ],
+        "reglamento": [
+          "horarios", "ruido", "basura", "fuego", "mascotas",
+          "visitas", "vehiculos", "drogas", "alcohol", "menores",
+          "responsabilidad", "daños", "multas", "expulsion"
+        ]
+      }
+    },
+    "ARTISTAS": {
+      "palabras": [
+        "artista", "banda", "grupo", "musico", "cantante",
+        "show", "concierto", "presentacion", "actuacion", "performance",
+        "lineup", "cartel", "horario", "escenario", "cambios",
+        "headliner", "telonero", "invitado", "sorpresa", "colaboracion",
+        "set", "setlist", "repertorio", "canciones", "hits"
+      ],
+      "peso": 8,
+      "critico": false,
+      "subcategorias": {
+        "lineup": [
+          "mas variedad", "mismo genero", "repetitivo", "predecible",
+          "sorpresas", "internacional", "nacional", "local", "emergente",
+          "leyendas", "reunion", "exclusivo", "primera vez", "unico",
+          "diversidad", "generos", "epocas", "estilos", "fusion",
+          "undercard", "mid tier", "headliner", "legend", "closer"
+        ],
+        "horarios": [
+          "chocan horarios", "mismo tiempo", "decidir", "perder", "correr",
+          "espaciar", "coordinar", "planear", "mapa tiempo", "app",
+          "notificaciones", "cambios", "avisar", "actualizar",
+          "conflictos", "overlap", "vs", "counter programming",
+          "estrategia", "publico", "target", "genero", "flujo"
+        ],
+        "calidad": [
+          "buen show", "mal show", "playback", "sin energia", "aburrido",
+          "profesional", "ensayado", "produccion", "escenografia",
+          "vestuario", "bailarines", "visuales", "interaccion",
+          "carisma", "presencia", "voz", "musicalidad", "show",
+          "espectaculo", "experiencia", "conexion", "emocion"
+        ],
+        "duracion": [
+          "muy corto", "30 minutos", "incomplete", "canciones faltaron",
+          "mas tiempo", "set completo", "encore", "sorpresas", "covers",
+          "improvisacion", "jam", "colaboraciones", "invitados",
+          "extended", "dj set", "live set", "b2b", "marathon"
+        ],
+        "cancelaciones": [
+          "cancelaron", "no avisan", "ultimo momento", "sin reemplazo",
+          "decepcion", "viaje perdido", "reembolso", "compensacion",
+          "comunicar", "transparencia", "alternativas", "solucion",
+          "fuerza mayor", "enfermedad", "visa", "logistica", "tecnico"
+        ],
+        "interaccion": [
+          "meet greet", "firma autografos", "fotos", "q&a", "masterclass",
+          "soundcheck", "ensayo abierto", "documental", "backstage",
+          "vip experience", "cena", "convivencia", "subasta", "crowdfunding"
+        ],
+        "descubrimiento": [
+          "nuevos artistas", "recomendaciones", "playlist", "radio",
+          "showcases", "batalla bandas", "concurso", "talento local",
+          "escenario nuevo", "curaduria", "a&r", "scouts", "demos"
+        ],
+        "produccion": [
+          "backline", "rider", "prueba sonido", "cambio set", "logistica",
+          "crew", "management", "tour manager", "ingeniero", "iluminador",
+          "video", "proyecciones", "efectos", "pirotecnia", "especiales"
+        ]
+      }
+    },
+    "EXCELENTE": {
+      "palabras": [
+        "excelente", "perfecto", "increible", "maravilloso", "genial",
+        "espectacular", "fantastico", "brutal", "chingon", "rifado",
+        "padrisimo", "asombroso", "impresionante", "magnifico", "sublime",
+        "extraordinario", "fenomenal", "sensacional", "formidable", "tremendo",
+        "epico", "legendario", "historico", "inolvidable", "memorable",
+        "wow", "amazing", "awesome", "cool", "top", "super",
+        "mega", "ultra", "hiper", "bestial", "mortal", "letal"
+      ],
+      "peso": 1,
+      "critico": false,
+      "es_positivo": true,
+      "subcategorias": {
+        "experiencia": [
+          "mejor festival", "experiencia vida", "inolvidable", "repetir",
+          "cada año", "no me pierdo", "tradicion", "obligado", "imperdible",
+          "recomiendo", "vale pena", "inversion", "felicidad", "memories",
+          "bucket list", "dream come true", "vida", "momento", "magia",
+          "energia", "vibra", "ambiente", "atmosfera", "conexion"
+        ],
+        "organizacion": [
+          "bien organizado", "pensado todo", "detalles", "profesional",
+          "clase mundial", "primer mundo", "ejemplo", "modelo", "referencia",
+          "aprender", "copiar", "standard", "calidad", "excelencia",
+          "impecable", "perfecto", "sin fallas", "fluido", "eficiente",
+          "efectivo", "puntual", "coordinado", "sincronizado"
+        ],
+        "ambiente": [
+          "vibra increible", "energia", "gente", "comunidad", "familia",
+          "amigos", "conocer", "compartir", "unidos", "paz", "amor",
+          "musica", "festival", "celebracion", "fiesta", "vida",
+          "libertad", "expresion", "diversidad", "inclusion", "respeto",
+          "tolerancia", "alegria", "felicidad", "euforia", "extasis"
+        ],
+        "produccion": [
+          "escenarios", "sonido", "luces", "pantallas", "efectos",
+          "pirotecnia", "laser", "wow", "impactante", "profesional",
+          "inversion", "calidad", "tecnologia", "vanguardia",
+          "innovacion", "creatividad", "arte", "diseño", "estetica",
+          "visual", "audiovisual", "inmersivo", "360", "experiencial"
+        ],
+        "valor": [
+          "precio justo", "vale cada peso", "barato considerando", "incluye mucho",
+          "experiencia completa", "mas que musica", "integral", "360",
+          "beneficios", "agregado", "sorpresas", "extras", "detalles",
+          "roi", "worth", "inversion", "no gasto", "memoria",
+          "costo beneficio", "incomparable", "unico", "exclusivo"
+        ],
+        "lineup": [
+          "artistas increibles", "lineup soñado", "todos mis favoritos",
+          "descubri nuevos", "variedad", "calidad", "cantidad",
+          "exclusivos", "unicos", "primera vez", "reunion", "leyenda",
+          "emergentes", "consagrados", "mix perfecto", "algo para todos"
+        ],
+        "servicios": [
+          "atencion increible", "staff amable", "profesionales", "ayudan",
+          "resuelven", "proactivos", "serviciales", "educados",
+          "eficientes", "rapidos", "organizados", "capacitados",
+          "uniformados", "identificados", "disponibles", "everywhere"
+        ],
+        "innovacion": [
+          "tecnologia", "apps", "cashless", "sostenible", "eco",
+          "verde", "consciente", "responsable", "futuro", "vanguardia",
+          "tendencia", "nuevo", "diferente", "unico", "primero",
+          "pionero", "lider", "referente", "benchmark", "best practice"
+        ]
+      }
+    },
+    "INSTALACIONES": {
+      "palabras": [
+        "instalacion", "instalaciones", "facilities", "amenidades",
+        "infraestructura", "equipamiento", "mobiliario", "estructura",
+        "construccion", "edificacion", "obra", "montaje", "venue"
+      ],
+      "peso": 6,
+      "critico": false,
+      "subcategorias": {
+        "generales": [
+          "modernas", "viejas", "renovadas", "nuevas", "temporales",
+          "permanentes", "moviles", "fijas", "modulares", "adaptables",
+          "funcionales", "esteticas", "practicas", "eficientes"
+        ],
+        "estado": [
+          "buen estado", "mal estado", "deterioradas", "rotas", "peligrosas",
+          "mantenimiento", "reparacion", "renovacion", "actualizacion",
+          "modernizacion", "conservacion", "preservacion", "cuidado"
+        ],
+        "capacidad": [
+          "suficientes", "insuficientes", "saturadas", "vacias", "adecuadas",
+          "pequeñas", "grandes", "amplias", "reducidas", "limitadas",
+          "expandibles", "escalables", "flexibles", "rigidas"
+        ],
+        "tipos": [
+          "sanitarias", "medicas", "comerciales", "recreativas", "deportivas",
+          "culturales", "educativas", "administrativas", "operativas",
+          "logisticas", "tecnicas", "especializadas", "generales"
+        ]
+      }
+    },
+    "EXPERIENCIA": {
+      "palabras": [
+        "experiencia", "vivencia", "momento", "recuerdo", "memoria",
+        "sensacion", "sentimiento", "emocion", "impresion", "percepcion",
+        "satisfaccion", "decepcion", "expectativa", "realidad", "esperaba"
+      ],
+      "peso": 7,
+      "critico": false,
+      "subcategorias": {
+        "general": [
+          "buena experiencia", "mala experiencia", "regular", "decepcionante",
+          "superó expectativas", "quedó a deber", "como esperaba", "mejor imposible",
+          "peor imposible", "mixta", "agridulce", "memorable", "olvidable"
+        ],
+        "emocional": [
+          "feliz", "triste", "enojado", "frustrado", "emocionado",
+          "decepcionado", "satisfecho", "insatisfecho", "nostalgico",
+          "euforico", "ansioso", "relajado", "estresado", "agobiado"
+        ],
+        "social": [
+          "con amigos", "solo", "pareja", "familia", "conocí gente",
+          "ambiente", "comunidad", "conexion", "aislado", "incluido",
+          "excluido", "pertenencia", "ajeno", "integrado"
+        ],
+        "valor": [
+          "valió la pena", "no valió", "caro para lo que es", "barato",
+          "justo", "estafa", "robo", "ganancia", "perdida",
+          "inversion", "gasto", "desperdicio", "aprovechado"
+        ],
+        "comparativa": [
+          "mejor que otros", "peor que otros", "igual", "único",
+          "incomparable", "standard", "básico", "premium", "elite",
+          "promedio", "mediocre", "excepcional", "ordinario"
+        ]
+      }
+    },
+    "STAFF": {
+      "palabras": [
+        "staff", "personal", "empleado", "trabajador", "equipo",
+        "crew", "voluntario", "organizador", "coordinador", "supervisor",
+        "jefe", "encargado", "responsable", "operador", "asistente"
+      ],
+      "peso": 6,
+      "critico": false,
+      "subcategorias": {
+        "actitud": [
+          "amable", "grosero", "servicial", "indiferente", "atento",
+          "distraido", "profesional", "amateur", "educado", "maleducado",
+          "proactivo", "reactivo", "positivo", "negativo", "motivado"
+        ],
+        "capacitacion": [
+          "bien capacitado", "mal capacitado", "no sabe", "experto",
+          "novato", "experimentado", "improvisado", "preparado",
+          "entrenado", "certificado", "calificado", "competente"
+        ],
+        "disponibilidad": [
+          "siempre disponible", "nunca encuentro", "muchos", "pocos",
+          "suficientes", "insuficientes", "visible", "escondido",
+          "presente", "ausente", "turnos", "horarios", "descansos"
+        ],
+        "identificacion": [
+          "bien identificado", "sin identificar", "uniforme", "gafete",
+          "distintivo", "color", "area", "funcion", "nombre",
+          "puesto", "jerarquia", "departamento", "equipo"
+        ],
+        "comunicacion": [
+          "claro", "confuso", "bilingue", "monolingue", "señas",
+          "educado", "tecnico", "simple", "complicado", "efectivo",
+          "inefectivo", "asertivo", "agresivo", "pasivo"
+        ]
+      }
+    },
+    "ACTIVIDADES": {
+      "palabras": [
+        "actividad", "actividades", "activacion", "experiencia",
+        "atraccion", "entretenimiento", "diversion", "juego", "concurso",
+        "dinamica", "taller", "clase", "demostracion", "exhibicion"
+      ],
+      "peso": 4,
+      "critico": false,
+      "subcategorias": {
+        "variedad": [
+          "muchas opciones", "pocas opciones", "aburrido", "divertido",
+          "para todos", "limitado", "repetitivo", "novedoso",
+          "creativo", "predecible", "sorprendente", "esperado"
+        ],
+        "marcas": [
+          "activaciones marcas", "patrocinadores", "regalos", "muestras",
+          "promociones", "concursos", "premios", "experiencias",
+          "foto", "video", "realidad virtual", "juegos"
+        ],
+        "culturales": [
+          "arte", "pintura", "escultura", "performance", "teatro",
+          "danza", "circo", "magia", "poesia", "literatura",
+          "cine", "documental", "charlas", "conferencias"
+        ],
+        "deportivas": [
+          "futbol", "basquet", "voley", "skate", "bmx",
+          "yoga", "crossfit", "running", "escalada", "slack line",
+          "ping pong", "futbolito", "arcade", "esports"
+        ],
+        "gastronomicas": [
+          "catas", "maridajes", "clases cocina", "demos chef",
+          "concursos comida", "retos", "degustacion", "mixologia",
+          "barista", "sommelier", "food pairing", "showcooking"
+        ]
+      }
+    },
+    "MEDIO_AMBIENTE": {
+      "palabras": [
+        "ambiente", "ambiental", "ecologia", "ecologico", "sustentable",
+        "sostenible", "verde", "reciclaje", "basura", "contaminacion",
+        "huella", "carbono", "impacto", "naturaleza", "planeta"
+      ],
+      "peso": 5,
+      "critico": false,
+      "subcategorias": {
+        "practicas": [
+          "reciclaje", "separacion basura", "composta", "reutilizable",
+          "biodegradable", "sin plastico", "sin unicel", "retornable",
+          "deposito", "incentivos", "educacion", "concientizacion"
+        ],
+        "impacto": [
+          "mucha basura", "contaminacion", "destruccion", "daño",
+          "huella carbono", "emisiones", "desperdicio", "consumo",
+          "recursos", "energia", "agua", "materiales"
+        ],
+        "iniciativas": [
+          "programa verde", "carbono neutral", "energia limpia", "solar",
+          "eolica", "transporte publico", "bicicletas", "compartir auto",
+          "compensacion", "reforestacion", "conservacion", "proteccion"
+        ],
+        "responsabilidad": [
+          "consciente", "responsable", "comprometido", "indiferente",
+          "irresponsable", "destructivo", "cuidadoso", "respetuoso",
+          "educado", "ejemplo", "liderazgo", "cambio"
+        ],
+        "certificaciones": [
+          "iso 14001", "leed", "carbono neutral", "empresa verde",
+          "festival sostenible", "zero waste", "plastic free",
+          "ocean friendly", "rainforest alliance", "fair trade"
+        ]
+      }
+    }
+  },
+  "prioridades": {
+    "criticas": ["BAÑOS", "HIDRATACIÓN", "SEGURIDAD", "ACCESIBILIDAD", "PRIMEROS_AUXILIOS"],
+    "importantes": ["COMIDA", "ORGANIZACIÓN", "INFRAESTRUCTURA", "LIMPIEZA", "ESPACIO", "ARTISTAS", "EXPERIENCIA"],
+    "mejoras": ["PRECIO", "BEBIDAS", "SEÑALIZACIÓN", "SONIDO", "TECNOLOGÍA", "TRANSPORTE", "STAFF", "INSTALACIONES"],
+    "deseables": ["MERCHANDISING", "ILUMINACIÓN", "CLIMA", "CAMPING", "ACTIVIDADES", "MEDIO_AMBIENTE"],
+    "positivas": ["EXCELENTE"]
+  },
+  "umbrales_accion": {
+    "urgente": 0.15,
+    "prioritario": 0.10,
+    "importante": 0.05,
+    "monitorear": 0.02,
+    "positivo": 0.80
+  },
+  "metricas_impacto": {
+    "seguridad_salud": 10,
+    "experiencia_basica": 8,
+    "comodidad": 6,
+    "entretenimiento": 4,
+    "extras": 2
+  },
+  "analisis_contextual": {
+    "palabras_intensificadoras": [
+      "muy", "demasiado", "super", "extremadamente", "totalmente",
+      "absolutamente", "completamente", "urgente", "critico", "vital",
+      "terrible", "horrible", "pesimo", "excelente", "increible",
+      "bastante", "mucho", "muchisimo", "re", "recontra",
+      "ultra", "mega", "hiper", "archi", "requete"
+    ],
+    "palabras_minimizadoras": [
+      "poco", "algo", "ligeramente", "un poco", "mas o menos",
+      "regular", "normal", "ok", "aceptable", "pasable",
+      "medio", "casi", "apenas", "levemente", "relativamente",
+      "moderadamente", "parcialmente", "medianamente", "tirando a"
+    ],
+    "indicadores_urgencia": [
+      "urgente", "emergencia", "peligro", "riesgo", "accidente",
+      "grave", "serio", "critico", "vital", "importante",
+      "ya", "ahora", "inmediato", "rapido", "pronto",
+      "vida o muerte", "seguridad", "salud", "ayuda", "auxilio"
+    ],
+    "expresiones_positivas": [
+      "lo mejor", "de lo mejor", "otro nivel", "otra liga",
+      "no tiene madre", "la neta", "esta con madre", "chingon",
+      "rifado", "vergas", "poca madre", "perrón", "machin",
+      "padrísimo", "buenísimo", "increíble", "espectacular"
+    ],
+    "expresiones_negativas": [
+      "lo peor", "una mierda", "un asco", "que horror",
+      "no mames", "esta dlv", "esta culero", "que pedo",
+      "valio verga", "esta gacho", "que mal pedo", "que oso",
+      "una basura", "un fraude", "una estafa", "un robo"
+    ]
+  },
+  "respuestas_tipo": {
+    "agradecimiento": [
+      "gracias por tu feedback",
+      "tomamos nota",
+      "trabajaremos en ello",
+      "es nuestra prioridad",
+      "valoramos tu opinion",
+      "agradecemos tu tiempo",
+      "tu opinion es importante",
+      "nos ayuda a mejorar",
+      "lo consideraremos",
+      "gracias por compartirnos"
+    ],
+    "disculpa": [
+      "lamentamos la experiencia",
+      "sentimos los inconvenientes",
+      "pedimos disculpas",
+      "no es nuestro standard",
+      "mejoraremos",
+      "entendemos tu frustracion",
+      "no debio pasar",
+      "fue un error",
+      "asumimos responsabilidad",
+      "queremos compensarte"
+    ],
+    "accion": [
+      "implementaremos cambios",
+      "ya estamos trabajando",
+      "para proximo año",
+      "es prioridad",
+      "inversión planeada",
+      "reunión con proveedores",
+      "capacitacion personal",
+      "nuevo protocolo",
+      "auditoria proceso",
+      "mejora continua"
+    ],
+    "positivo": [
+      "nos alegra que disfrutes",
+      "gracias por elegirnos",
+      "tu felicidad es nuestra meta",
+      "compartimos tu emocion",
+      "nos motiva tu comentario",
+      "seguiremos mejorando",
+      "es un honor recibirte",
+      "gracias por la confianza",
+      "nos vemos el proximo año",
+      "eres parte de la familia"
+    ]
+  },
+  "factores_contexto": {
+    "zona_impacto": {
+      "VIP": 1.5,
+      "Hospitality": 1.5,
+      "General +": 1.2,
+      "General": 1.0,
+      "Ascendente": 0.8
+    },
+    "edad_vulnerabilidad": {
+      "menor_18": 1.5,
+      "18_24": 1.0,
+      "25_34": 1.0,
+      "35_44": 1.1,
+      "45_54": 1.3,
+      "mayor_55": 1.5
+    },
+    "momento_festival": {
+      "entrada": 1.2,
+      "primer_dia": 1.1,
+      "dias_intermedios": 1.0,
+      "ultimo_dia": 1.2,
+      "salida": 1.3
+    }
+  },
+  "reglas_categorizacion": {
+    "multiple_mencion": "asignar todas las categorías relevantes",
+    "prioridad_critica": "si menciona tema crítico, priorizar sobre otros",
+    "contexto_positivo": "si contexto general es positivo, reducir peso negativo",
+    "sarcasmo": "detectar inversión de sentimiento por contexto",
+    "comparacion": "si compara con otros festivales, aumentar peso"
+  }
+}
